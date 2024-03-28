@@ -36,11 +36,9 @@ Embden-Meyerhof-Parnas Pathway（EMP途径）<br>
 
 ## 总反应
 
-* $ \ce{ G + 2Pi + 2ADP + 2NAD^+ -> 2PA + 2ATP + 2NADH + 2H^+ 2H_2O } $ <br>
-* 在有氧条件下：
-  * 2NADH 进入 呼吸链继续反应 氧化生成 2 * 2.5 = 5 ATP
-* 在无氧条件下：
-  * $ \ce{ PA + NADH ->[ 乳酸脱氢酶 ][ PA脱COOH酶 | 乙醇脱氢酶 ] CH_3CH_2OH | CH_3CH_2OHCOOH } $
+$ \ce{ G + 2Pi + 2ADP + 2NAD^+ -> 2PA + 2ATP + 2NADH + 2H^+ 2H_2O } $ <br>
+在有氧条件下，2NADH 进入 呼吸链继续反应 氧化生成 2 * 2.5 = 5 ATP<br>
+在无氧条件下，$ \ce{ PA + NADH ->[ 乳酸脱氢酶 ][ PA脱COOH酶 | 乙醇脱氢酶 ] CH_3CH_2OH | CH_3CH_2OHCOOH } $
 
 <br>
 
