@@ -6,8 +6,10 @@
 
 **有氧**条件下，PA 有氧分解，形成 CO<sub>2</sub> 和 H<sub>2</sub>O <br>
 此途径：1.柠檬酸循环 2.氧化磷酸化<br>
-$ \ce{ G ->[ 氧化脱羧 ] PA -> 乙酰CoA ->[ 氧化脱羧 ] CO_2, H_2O, 能量 } $ <br>
-地点：线粒体基质<br>
+* 方程：
+  * $ \ce{ G ->[ 氧化脱羧 ] PA -> 乙酰CoA ->[ 氧化脱羧 ] CO_2, H_2O, 能量 } $ <br>
+* 地点：
+  * 线粒体基质<br>
 
 <br>
 
@@ -70,9 +72,8 @@ PA -> Ac-CoA 的不可逆过程 是连接EMP与TAC 的纽带。是由 PA脱氢�
 
 ### 总反应
 
-* 总反应
-  * \ce{ Ac-CoA + 3NAD^+ + FAD + GDP + Pi + 2H_2O -> 2CO_2 + 3NADH + FADH_2 + GTP + CoA + 2H^+ } $ <br>
-
+* 方程
+  * $ \ce{ Ac-*CoA + 3NAD^+ + FAD + GDP + Pi + 2H_2O -> 2CO_2 + 3NADH + FADH_2 + GTP + CoA + 2H^+ } $ <br>
 * 特点
   * 单向
   * 不需要氧，但是离开氧化磷酸化无法进行
