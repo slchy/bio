@@ -70,13 +70,15 @@ PA -> Ac-CoA 的不可逆过程 是连接EMP与TAC 的纽带。是由 PA脱氢�
 
 ### 总反应
 
-$ \ce{ Ac-CoA + 3NAD^+ + FAD + GDP + Pi + 2H_2O -> 2CO_2 + 3NADH + FADH_2 + GTP + CoA + 2H^+ } $ <br>
-* 单向
-* 不需要氧，但是离开氧化磷酸化无法进行
-* Ac-CoA 上的 2C 加入TAC，由 脱羧作用 产生 2CO<sub>2</sub> 
-* 共4步氧化反应，产生 3NADH + H<sup>+</sup> / 1FADH<sub>2</sub> / GTP
-* 经呼吸链 3NADH -> 7.5ATP， 1FADH<sub>2</sub> -> 1.5ATP， 9ATP + 1GTP = 10ATP
-* 到此处，1G 产出 12.5 * 2 + 7 = 32ATP
+* $ \ce{ Ac-CoA + 3NAD^+ + FAD + GDP + Pi + 2H_2O -> 2CO_2 + 3NADH + FADH_2 + GTP + CoA + 2H^+ } $ <br>
+
+* 特点
+  * 单向
+  * 不需要氧，但是离开氧化磷酸化无法进行
+  * Ac-CoA 上的 2C 加入TAC，由 脱羧作用 产生 2CO<sub>2</sub> 
+  * 共4步氧化反应，产生 3NADH + H<sup>+</sup> / 1FADH<sub>2</sub> / GTP
+  * 经呼吸链 3NADH -> 7.5ATP， 1FADH<sub>2</sub> -> 1.5ATP， 9ATP + 1GTP = 10ATP
+  * 到此处，1G 产出 12.5 * 2 + 7 = 32ATP
 
 <br>
 

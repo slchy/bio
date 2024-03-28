@@ -5,7 +5,7 @@
 ## PPP
 
 * 概述
-  > 指G生成戊糖磷酸及NADPH + H<sup>+</sup>，其后戊糖磷酸 转化为F-6-P，GAP的过程。<br>核心反应： $ \ce{ G-6-P + 2NADP^+ + 2H_2O -> R-5-P + 2NADPH + 2H^+ + CO_2 } $<br>氧化脱羧阶段<br>非氧化分子重排阶段<br>
+  * 指G生成戊糖磷酸及NADPH + H<sup>+</sup>，其后戊糖磷酸 转化为F-6-P，GAP的过程。<br>核心反应： $ \ce{ G-6-P + 2NADP^+ + 2H_2O -> R-5-P + 2NADPH + 2H^+ + CO_2 } $<br>氧化脱羧阶段<br>非氧化分子重排阶段<br>
 
 <br>
 
@@ -16,7 +16,7 @@
   4. > <br>![G-6-P](https://cdn.jsdelivr.net/gh/sakurakouji-luna/pic@main/bio/BioChemistry/PppGlugenGly/G-6-P.svg)<br>（木）戊酮糖-5-磷酸：Dxylulose-5-P<br>景天庚酮糖-7-磷酸：&emsp;S7P<br>核糖-5-磷酸：&emsp;&emsp;&emsp;&emsp;R5P<br>赤藓丁糖-4-磷酸：&emsp;&emsp;E4P<br>
 
 * 总反应
-  > $ \ce{ 6G-6-P + 12NADP^+ + 7H_2O -> 5G-6-P + 12NADPH + 12H^+ + 6CO_2 } $<br>
+  * $ \ce{ 6G-6-P + 12NADP^+ + 7H_2O -> 5G-6-P + 12NADPH + 12H^+ + 6CO_2 } $<br>
 * 意义
   * 产生大量 NADPH用于提供合成物质时的还原力等
   * 产生大量 磷酸核糖 等中间产物
@@ -74,7 +74,7 @@
 <br>
 
 * 分解
-  > $ \ce{ 糖原^n + H_3PO_4 ->[糖原磷酸化酶] 糖原^{ n-1 } + G-1-P } $
+  * $ \ce{ 糖原^n + H_3PO_4 ->[糖原磷酸化酶] 糖原^{ n-1 } + G-1-P } $
 
 <br>
 
