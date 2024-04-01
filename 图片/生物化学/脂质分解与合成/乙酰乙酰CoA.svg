@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="89mm"
+   height="20mm"
+   id="svg59"
+   sodipodi:docname="乙酰乙酰CoA.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#E6FDE8"/>
+  <sodipodi:namedview
+     id="namedview59"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.2170251"
+     inkscape:cx="164.33386"
+     inkscape:cy="33.317326"
+     inkscape:window-width="1920"
+     inkscape:window-height="1246"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg59" />
+  <defs
+     id="defs1">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76476377px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 32.120079,32.693652   C 32.420522,33.239911 33.130659,33.458415 33.704232,33.157972   C 34.250492,32.830217 34.468996,32.147392 34.168553,31.573819   C 34.168553,31.573819 34.168553,31.573819 34.168553,31.573819  "
+     id="path1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76476377px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 34.168553,31.573819   C 33.840797,31.000246 34.059301,30.317421 34.605561,29.989665   C 35.179134,29.689222 35.889272,29.907726 36.189715,30.453986  "
+     id="path2" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76476377px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 36.189715,30.453986   C 36.490157,31.027559 37.200295,31.21875 37.773868,30.918307   C 38.320128,30.617864 38.538632,29.907726 38.210876,29.334154   C 38.210876,29.334154 38.210876,29.334154 38.210876,29.334154  "
+     id="path3" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76476377px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 38.210876,29.334154   C 37.910433,28.787894 38.128937,28.077756 38.675197,27.777313   C 39.24877,27.449557 39.958907,27.668061 40.25935,28.214321  "
+     id="path4" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,42.389764,28.842520)"
+     x="0.000000"
+     y="0.000000"
+     id="text6"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan6"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+         id="tspan4">Co</tspan><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+         id="tspan5">A</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,42.389764,28.842520)"
+     x="-42.389764"
+     y="-0.874016"
+     id="text10"><tspan
+       sodipodi:role="line"
+       x="-42.389764"
+       y="-0.874016"
+       id="tspan10"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+         id="tspan7">H</tspan><tspan
+         dx="0.000000"
+         dy="1.748031"
+         style="fill:#000000;font-size:5.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+         id="tspan8">3</tspan><tspan
+         dx="0.000000"
+         dy="-1.748031"
+         style="fill:#000000;font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+         id="tspan9">C</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76476377px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 15.24065,26.493602   L 25.182579,32.557087  "
+     id="path10" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,25.783465,38.019685)"
+     x="0.000000"
+     y="0.000000"
+     id="text12"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan12"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+         id="tspan11">C</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76476377px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 29.771161,38.921014   L 29.771161,49.65502  "
+     id="path12" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76476377px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 27.449557,38.921014   L 27.449557,49.65502  "
+     id="path13" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:87.593444%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;text-align:center;text-anchor:middle;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,25.346457,57.248031)"
+     x="3.403015"
+     y="0.000000"
+     id="text20"><tspan
+       sodipodi:role="line"
+       x="3.403015"
+       y="0.000000"
+       id="tspan14"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#FF0D0D;font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+         id="tspan13">O</tspan></tspan><tspan
+       sodipodi:role="line"
+       x="4.229114"
+       y="8.740157"
+       id="tspan20"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:9.187500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:宋体;"
+         id="tspan15">乙</tspan><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:9.187500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:宋体;"
+         id="tspan16">酰</tspan><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:9.187500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:宋体;"
+         id="tspan17">辅</tspan><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:9.187500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:宋体;"
+         id="tspan18">酶</tspan><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+         id="tspan19">A</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76476377px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 89.067667,33.403789   L 220.30659,33.403789  "
+     id="path20" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 226.88903,33.403789   L 219.13214,31.464567   L 220.30659,33.403789   L 219.13214,35.343012   z "
+     id="path21" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,261.330709,46.322835)"
+     x="0.000000"
+     y="0.000000"
+     id="text22"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan22"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#FF0D0D;font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+         id="tspan21">O</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,261.330709,46.322835)"
+     x="-25.783465"
+     y="-28.842520"
+     id="text26"><tspan
+       sodipodi:role="line"
+       x="-25.783465"
+       y="-28.842520"
+       id="tspan26"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+         id="tspan23">H</tspan><tspan
+         dx="0.000000"
+         dy="1.748031"
+         style="fill:#000000;font-size:5.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+         id="tspan24">3</tspan><tspan
+         dx="0.000000"
+         dy="-1.748031"
+         style="fill:#000000;font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+         id="tspan25">C</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76476377px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 301.15305,22.150837   C 301.45349,22.697096 302.16363,22.9156 302.7372,22.587844   C 303.28346,22.287402 303.50197,21.577264 303.20153,21.031004  "
+     id="path26" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76476377px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 303.20153,21.031004   C 302.87377,20.457431 303.09227,19.747293 303.63853,19.44685   C 304.21211,19.146407 304.92224,19.337598 305.22269,19.911171   C 305.22269,19.911171 305.22269,19.911171 305.22269,19.911171  "
+     id="path27" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76476377px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 305.22269,19.911171   C 305.52313,20.484744 306.23327,20.675935 306.80684,20.375492   C 307.3531,20.047736 307.5716,19.364911 307.24385,18.791339  "
+     id="path28" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76476377px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 307.24385,18.791339   C 306.94341,18.245079 307.16191,17.534941 307.70817,17.207185   C 308.28174,16.906742 308.99188,17.125246 309.29232,17.671506  "
+     id="path29" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,311.586614,18.354331)"
+     x="0.000000"
+     y="0.000000"
+     id="text31"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan31"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+         id="tspan29">Co</tspan><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+         id="tspan30">A</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:99.887514%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,311.586614,18.354331)"
+     x="-33.212598"
+     y="-10.051181"
+     id="text36"><tspan
+       sodipodi:role="line"
+       x="-33.212598"
+       y="-10.051181"
+       id="tspan34"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+         id="tspan32">H</tspan><tspan
+         dx="0.000000"
+         dy="1.748031"
+         style="fill:#000000;font-size:5.250000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+         id="tspan33">2</tspan></tspan><tspan
+       sodipodi:role="line"
+       x="-33.212598"
+       y="-1.311024"
+       id="tspan36"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+         id="tspan35">C</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76476377px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 283.89124,15.732283   L 294.21555,21.986959  "
+     id="path36" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,294.543307,27.531496)"
+     x="0.000000"
+     y="0.000000"
+     id="text38"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan38"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+         id="tspan37">C</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76476377px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 298.80413,28.378199   L 298.80413,39.084892  "
+     id="path38" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76476377px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 296.48253,28.378199   L 296.48253,39.084892  "
+     id="path39" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,294.543307,46.759843)"
+     x="0.000000"
+     y="0.000000"
+     id="text40"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan40"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#FF0D0D;font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+         id="tspan39">O</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76476377px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 278.31939,15.650344   L 264.38976,23.707677  "
+     id="path40" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76476377px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 265.53691,24.390502   L 265.53691,38.729823  "
+     id="path41" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76476377px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 263.21531,24.390502   L 263.21531,38.729823  "
+     id="path42" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76476377px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 264.38976,23.707677   L 250.86983,15.896161  "
+     id="path43" />
+  <text
+     xml:space="preserve"
+     style="font-size:9.187500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:宋体;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,253.464567,55.062992)"
+     x="0.000000"
+     y="0.000000"
+     id="text50"><tspan
+       sodipodi:role="line"
+       x="0.000000"
+       y="0.000000"
+       id="tspan50"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:9.187500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:宋体;"
+         id="tspan43">乙</tspan><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:9.187500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:宋体;"
+         id="tspan44">酰</tspan><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:9.187500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:宋体;"
+         id="tspan45">乙</tspan><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:9.187500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:宋体;"
+         id="tspan46">酰</tspan><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:9.187500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:宋体;"
+         id="tspan47">辅</tspan><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:9.187500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:宋体;"
+         id="tspan48">酶</tspan><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+         id="tspan49">A</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:9.187500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:宋体;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,253.464567,55.062992)"
+     x="-73.854331"
+     y="-25.346457"
+     id="text54"><tspan
+       sodipodi:role="line"
+       x="-73.854331"
+       y="-25.346457"
+       id="tspan54"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:9.187500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:宋体;"
+         id="tspan51">硫</tspan><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:9.187500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:宋体;"
+         id="tspan52">解</tspan><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:9.187500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:宋体;"
+         id="tspan53">酶</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;text-align:start;text-anchor:start;"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,253.464567,55.062992)"
+     x="-48.070866"
+     y="10.051181"
+     id="text58"><tspan
+       sodipodi:role="line"
+       x="-48.070866"
+       y="10.051181"
+       id="tspan58"><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+         id="tspan55">C</tspan><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+         id="tspan56">o</tspan><tspan
+         dx="0.000000"
+         dy="0.000000"
+         style="fill:#000000;font-size:8.750000px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Arial;"
+         id="tspan57">A</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.76476377px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;"
+     d="  M 185.45522,33.403789   C 196.05266,33.403789 205.8034,39.112205 210.99286,48.316683  "
+     id="path58" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;stroke:none;"
+     d="  M 213.56029,54.352854   L 212.16732,46.541339   L 210.99286,48.316683   L 208.64395,48.098179   z "
+     id="path59" />
+</svg>
