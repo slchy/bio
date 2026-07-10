@@ -1,4 +1,5 @@
 # [PPP及糖异生及糖原](https://blog.slchy.com/note/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6%E7%AC%94%E8%AE%B0-40-78.pdf#page=9)
+**由人手生成**
 
 ***
 

@@ -1,4 +1,5 @@
 # 糖酵解作用
+**由人手生成**
 
 **葡萄糖** 在 **无氧条件** 降解为 **丙酮酸** 伴随 **ATP生成** 的过程<br>
 Embden-Meyerhof-Parnas Pathway（EMP途径）<br>
