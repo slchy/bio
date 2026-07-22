@@ -1127,3 +1127,394 @@ $$
 3. **指导用药与药物设计**
    * SNP反映个体遗传差异，可用于分析个体对药物的敏感或耐受。
    * 有助于建立与基因型相关的治疗方案和个性化用药，并为按基因型设计药物提供依据。
+
+<!-- BIO-GLOSSARY:START 自动生成,勿手改此区块 -->
+
+## 本章名词
+
+<details>
+<summary><b>DNA的半保留复制</b>｜semiconservative replication　⭐真题</summary>
+
+> DNA的半保留复制是指DNA复制时，每个子代DNA分子含有一条来自亲代的旧链和一条新合成的互补链的复制方式。双链DNA解旋后，每条亲代链作为模板，按碱基互补配对原则合成新链，使子代DNA与亲代DNA碱基序列完全一致。这一机制确保了遗传信息在世代传递中的稳定性和准确性，并由Meselson和Stahl在1958年通过大肠杆菌的氮同位素标记实验得到证实。
+
+</details>
+
+<details>
+<summary><b>DNA 的半保留复制</b>｜semiconservative replication　⭐真题</summary>
+
+> DNA 在复制过程中, 每条链分别作为模板合成新链, 产生互补的两条链。这样新形成的两个 DNA 分子与原来 DNA 分子的碱基顺序完全一样。因此, 每个子代分子的一条链来自亲代 DNA, 另一条链则是新合成的, 这种复制方式被称为 DNA 的半保留复制。
+
+</details>
+
+<details>
+<summary><b>基因密度</b>｜Gene density</summary>
+
+> 生物体内所有的染色体组成基因组, 每 Mb 基因组 DNA 上所含有的平均基因数目称为基因密度。
+
+</details>
+
+<details>
+<summary><b>SNP</b>｜Single Nucleotide Polymorphism</summary>
+
+> 表示在基因组某个位点上一个核苷酸的变化。
+
+</details>
+
+<details>
+<summary><b>错配修复</b>｜mismatch repair</summary>
+
+> 是对 DNA 错配区的修复。通过母链甲基化原则找出区分母链与子链从而修正子链上错配的碱基。
+
+</details>
+
+<details>
+<summary><b>颠换</b>｜tranversion</summary>
+
+> 嘧啶到嘌呤和嘌呤到嘧啶的替换。
+
+</details>
+
+<details>
+<summary><b>非组蛋白</b>｜non-histone protein</summary>
+
+> 是染色体中除了组蛋白之外的结构蛋白。
+
+</details>
+
+<details>
+<summary><b>基因突变</b>｜Mutation</summary>
+
+> 是指在基因内的遗传物质发生可遗传的结构和数量的变化。
+
+</details>
+
+<details>
+<summary><b>双向复制</b>｜bidirectional replication</summary>
+
+> DNA 复制时, 以复制起始点为中心, 向两个方向进行的复制。
+
+</details>
+
+<details>
+<summary><b>B-DNA的构象</b>｜B-DNA</summary>
+
+> B-DNA的构象是指DNA钠盐在较高湿度下形成的B型右手双螺旋结构，是大多数DNA在细胞中的主要构象。该构象由两条反向平行的多核苷酸链围绕同一中心轴盘绕而成，脱氧核糖-磷酸骨架位于外侧，碱基通过互补配对（A与T、G与C）以氢键结合排列在内侧。B-DNA结构规则稳定，含水量较高，是Watson和Crick于1953年提出的经典DNA双螺旋模型。
+
+</details>
+
+<details>
+<summary><b>chaI</b>｜ChaI</summary>
+
+> ChaI 是一种限制性内切酶，能够识别 DNA 分子中特定的核苷酸序列并切割磷酸二酯键，常用于重组 DNA 技术中对 DNA 进行定点切割。
+
+</details>
+
+<details>
+<summary><b>DNA的半不连续复制</b>｜semidiscontinuous replication</summary>
+
+> DNA半不连续复制是指DNA复制时，由于双链反向平行且所有DNA聚合酶仅能按5'→3'方向合成，导致前导链连续合成，后随链则先不连续合成许多长为1000～2000个碱基的冈崎片段，随后由DNA连接酶共价连接成完整子链的复制方式。这一模型由冈崎等通过放射性标记实验证实，后随链的合成方向与复制叉移动方向相反。
+
+</details>
+
+<details>
+<summary><b>DNA的变性</b>｜DNA denaturation</summary>
+
+> DNA变性是指在温度接近沸点或pH较高的条件下，DNA双螺旋的两条互补链因非共价键断裂而解离成单链的过程。该过程可逆，缓慢降温后单链可重新复性形成双螺旋。变性常伴随260nm处吸光度显著增加的增色效应，可用于监测变性过程。
+
+</details>
+
+<details>
+<summary><b>DNA的二级结构</b>｜DNA secondary structure</summary>
+
+> DNA的二级结构是指两条多核苷酸链反向平行盘绕所生成的双螺旋结构。其基本特点是：由两条反向平行的脱氧核苷酸链组成，脱氧核糖和磷酸交替连接排在外侧构成骨架，碱基排列在内侧；两条链上的碱基通过氢键互补配对，即A与T配对、G与C配对，形成碱基互补配对原则；常见构象包括右手螺旋的B-DNA等和左手螺旋的Z-DNA，不同构象间存在动态平衡。
+
+</details>
+
+<details>
+<summary><b>DNA的熔点</b>｜DNA melting temperature</summary>
+
+> DNA的熔点（melting temperature, Tm）是指DNA双链热变性过程中，紫外吸光度（260 nm）增加值达到最大值一半时所对应的温度。Tm值可反映DNA双链结构的稳定性，如染色质DNA的Tm值高于自由DNA。通过监测升温时DNA溶液的增色效应，可以获得其熔解曲线并确定Tm。
+
+</details>
+
+<details>
+<summary><b>DNA的一级结构</b>｜DNA primary structure</summary>
+
+> DNA的一级结构是指DNA分子中脱氧核苷酸的排列顺序，其基本单位是脱氧核苷酸。脱氧核苷酸由不变的磷酸和脱氧核糖以及可变的含氮碱基（A、G、C、T）组成，许多脱氧核苷酸通过3',5'-磷酸二酯键聚合成DNA链。
+
+</details>
+
+<details>
+<summary><b>DNA的转座</b>｜DNA transposition</summary>
+
+> DNA转座是由可移位因子（转座子）介导的遗传物质重排现象。其特点是转座过程中一个拷贝常留在原位，新位点出现的是其拷贝，因此依赖于DNA复制，与同源重组不同。转座频率较低，但能引发插入突变、产生新基因、导致染色体畸变等遗传效应，对生物进化有重要意义。
+
+</details>
+
+<details>
+<summary><b>DNA解链酶</b>｜DNA helicase</summary>
+
+> DNA解链酶（DNA helicase）是一类通过水解ATP获得能量来解开双链DNA的酶。在DNA复制过程中，它与拓扑异构酶等共同作用，在复制起始点处解开双链，形成复制叉。大部分DNA解链酶沿后随链模板的5'→3'方向移动并随复制叉前进，少数（如Rep蛋白）沿前导链模板的3'→5'方向移动。
+
+</details>
+
+<details>
+<summary><b>DNA聚合酶的延伸能力</b>｜processivity of DNA polymerase</summary>
+
+> DNA聚合酶的延伸能力是指DNA聚合酶在一次结合模板期间所能连续催化的核苷酸聚合数量。该能力主要由滑动DNA夹赋予，滑动DNA夹是一种环状蛋白复合物，可套在DNA双螺旋上并与聚合酶形成复合体，使聚合酶在合成时沿模板高效滑动而不脱落，从而显著提高延伸能力。
+
+</details>
+
+<details>
+<summary><b>DNA双螺旋模型</b>｜DNA double helix model</summary>
+
+> DNA双螺旋模型是由Watson和Crick于1953年提出的DNA二级结构模型。该模型认为DNA分子由两条反向平行的多核苷酸链围绕同一中心轴盘绕成右手双螺旋，脱氧核糖和磷酸交替连接在外侧构成骨架，碱基排列在内侧，并通过氢键按A与T、G与C的互补配对原则形成碱基对。此模型解释了DNA的理化性质，并将DNA的结构与功能联系起来。
+
+</details>
+
+<details>
+<summary><b>DNA损伤的修复</b>｜DNA repair</summary>
+
+> DNA损伤的修复是指细胞针对各种内源或外源因素导致的DNA结构损伤，通过多种酶促修复系统恢复其正常结构与功能的过程。主要包括错配修复（纠正复制错误）、碱基切除修复（切除受损碱基）、核苷酸切除修复（切除含嘧啶二聚体或大加合物的核苷酸片段）、双链断裂修复（同源重组修复和非同源末端连接）、直接修复（如光复活修复嘧啶二聚体）、跨损伤合成（允许复制通过损伤但易错）和SOS修复（应急旁路修复，保真度低）等机制，以维护基因组完整性。
+
+</details>
+
+<details>
+<summary><b>McClintock</b>｜McClintock</summary>
+
+> 美国遗传学家Barbara McClintock于20世纪40年代在玉米遗传学研究中首次发现转座子，揭示了Ac-Ds等可移动遗传因子系统，证明基因可在染色体上自主复制和位移，打破了孟德尔遗传学关于基因固定排列的传统观念，为转座子研究奠定基础，并因此获得诺贝尔生理学或医学奖。
+
+</details>
+
+<details>
+<summary><b>Sharp</b>｜Sharp</summary>
+
+> Sharp 并非教材片段涉及的标准术语，但在分子生物学中常指 SHARP (SMRT/HDAC1 Associated Repressor Protein)，该蛋白是一种转录抑制因子，通过招募组蛋白去乙酰化酶参与基因表达调控。
+
+</details>
+
+<details>
+<summary><b>Stahl</b>｜Stahl</summary>
+
+> Stahl是美国分子生物学家，与Meselson合作于1958年通过同位素标记大肠杆菌DNA的实验，首次证明了DNA的半保留复制。
+
+</details>
+
+<details>
+<summary><b>Watson</b>｜Watson</summary>
+
+> Watson，即James Watson，美国分子生物学家，与Francis Crick于1953年共同提出DNA双螺旋结构模型，并在此基础上推测了DNA半保留复制的机制，即DNA复制时双链解旋，每条链作为模板合成互补新链。
+
+</details>
+
+<details>
+<summary><b>超螺旋结构</b>｜supercoil</summary>
+
+> DNA超螺旋结构是DNA双螺旋进一步扭曲盘绕所形成的更复杂的空间结构，是DNA高级结构的主要形式。可分为正超螺旋（右手超螺旋）和负超螺旋（左手超螺旋），其中负超螺旋是细胞内常见的DNA高级结构形式，正超螺旋是过度缠绕的双螺旋。在不同类型拓扑异构酶作用下，正、负超螺旋和松弛DNA之间可以相互转变。
+
+</details>
+
+<details>
+<summary><b>重叠延伸</b>｜overlap extension</summary>
+
+> 重叠延伸（overlap extension）是一种体外DNA重组技术，利用具有互补末端的引物进行PCR扩增，使不同DNA片段的末端彼此杂交延伸，从而将多个片段拼接成完整基因或引入定点突变，常用于基因构建与修饰。
+
+</details>
+
+<details>
+<summary><b>复制起始点</b>｜replication origin</summary>
+
+> 复制起始点是DNA分子上启动复制的特定位点，是复制子的组成部分。其共同特点是富含AT碱基对，有利于复制启动时双链的解开。原核生物如大肠杆菌的oriC含有保守重复序列，真核生物如酵母的自主复制序列(ARS)包含A区保守序列，复制起始点可启动单向或双向复制。
+
+</details>
+
+<details>
+<summary><b>滑动DNA夹</b>｜sliding DNA clamp</summary>
+
+> 滑动DNA夹（sliding DNA clamp）是DNA复制过程中与DNA聚合酶结合、显著提高其延伸能力的保守蛋白质复合物。它由多个相同亚基组装成“油炸圈饼”状结构，中央孔洞直径约3.5 nm，可容纳DNA双螺旋及参与合成的蛋白质和水分子。聚合酶与滑动夹形成复合体后，沿DNA模板高效滑动，保持与DNA的紧密接触，从而极大增强了聚合酶的持续合成能力。该蛋白在病毒、细菌、酵母和人类等多种生物中高度保守，均呈六边形对称结构，但组成夹子的亚基数在不同物种中可能不同。
+
+</details>
+
+<details>
+<summary><b>碱基互补配对</b>｜complementary base pairing</summary>
+
+> 碱基互补配对是指在核酸分子（如DNA）的双链结构中，一条链上的碱基与另一条链上的碱基通过氢键按特定规律结合的一一对应关系，即腺嘌呤（A）与胸腺嘧啶（T）配对，鸟嘌呤（G）与胞嘧啶（C）配对。它是DNA双螺旋结构稳定的重要基础，也是DNA复制和遗传信息准确传递的分子机制。此外，该原则也体现在tRNA的三叶草结构形成以及mRNA密码子与tRNA反密码子的相互识别过程中。
+
+</details>
+
+<details>
+<summary><b>跨损伤合成</b>｜translesion synthesis</summary>
+
+> 跨损伤合成（translesion synthesis, TLS）是一类复制后修复，也称跨缺刻复制或备份复制。当DNA复制遇到嘧啶二聚体或脱嘌呤位点等未修复的损伤时，通过PCNA泛素化等信号招募跨损伤聚合酶（如pol η），使复制叉越过损伤部位继续合成，保障复制进程。该过程高度易错，是细胞在损伤胁迫下维持生存的应急机制。
+
+</details>
+
+<details>
+<summary><b>末端复制问题</b>｜end-replication problem</summary>
+
+> 末端复制问题是指线性染色体DNA复制时，因后随链的合成需要RNA引物，而最后一个冈崎片段的引物去除后，引物酶缺乏足够空间合成新引物，导致子代DNA的3′端产生一段单链DNA，使DNA在每轮复制后逐渐缩短的现象。该问题源于所有DNA聚合酶均依赖引物起始合成，前导链的复制可完整进行，但后随链的末端无法完全复制。若不解决，将导致染色体末端基因丢失，破坏遗传信息的完整传递。
+
+</details>
+
+<details>
+<summary><b>前复制复合体</b>｜pre-replicative complex</summary>
+
+> 前复制复合体（pre-RC）是真核生物DNA复制起始过程中在G₁期形成的一种蛋白质复合物，由起始点识别复合物（ORC）、解旋酶装载蛋白Cdc6和Cdt1以及Mcm2-7解旋酶复合体等组成。它介导复制起点的选择，为S期复制的起始做准备。pre-RC在G₁期组装后无活性，进入S期后在细胞周期蛋白依赖性激酶（Cdk）等作用下被磷酸化激活，从而启动DNA复制，并确保每条染色体在每个细胞周期中仅复制一次。
+
+</details>
+
+<details>
+<summary><b>上升突变</b>｜up mutation</summary>
+
+> 上升突变(up mutation)是指能增强基因表达或提高启动子活性的突变。在原核生物中，常由启动子-10区和-35区的序列或其间距变得更接近一致性序列所致，从而增加RNA聚合酶的结合亲和力或转录起始效率，导致基因转录水平上升。
+
+</details>
+
+<details>
+<summary><b>同源重组修复</b>｜homologous recombination repair</summary>
+
+> 同源重组修复是利用细胞内同源染色体对应的DNA序列作为模板进行DNA修复的过程，主要修复DNA双链断裂，也被称为“复制后修复”，发生在复制之后。该修复通过从未损伤的同源DNA母链获取序列信息，填补新合成链上对应于损伤位置的缺口，从而恢复遗传信息的完整性。该过程受一系列蛋白质调控和催化，例如原核生物中的RecA、RecBCD、RecF等以及真核生物中的Rad51、Mre11-Rad50等。
+
+</details>
+
+<details>
+<summary><b>下降突变</b>｜down mutation</summary>
+
+> 下降突变是指导致基因表达水平降低的突变，通常发生在启动子等调控区域，如改变-35区和-10区之间的间距可降低启动子活性，从而减弱转录效率，使基因产物减少。
+
+</details>
+
+<details>
+<summary><b>限制点调控</b>｜restriction point regulation</summary>
+
+> 限制点调控是细胞周期水平上的DNA复制调控机制，决定细胞是否从G1期进入S期。该调控整合外部信号和细胞因子，如促细胞分裂剂等，以确保细胞在适宜条件下启动DNA复制，从而控制细胞增殖。
+
+</details>
+
+<details>
+<summary><b>转录单位</b>｜transcription unit</summary>
+
+> 转录单位是一段从启动子开始到终止子结束的DNA序列，是RNA聚合酶识别并转录的连续模板，转录生成一条RNA链。在原核生物中，几个功能相关的结构基因及其调控序列可组成一个转录单位，转录产生多顺反子mRNA；真核生物中转录单位通常为单顺反子结构。转录单位包含启动子、转录区域和终止子等功能元件，是基因表达的基本功能单位。
+
+</details>
+
+<details>
+<summary><b>左手螺旋——Z-DNA</b>｜Z-DNA</summary>
+
+> Z-DNA是一种左手螺旋的DNA二级结构构象，由Rich于1979年通过d(CGCGCG)的X射线衍射分析提出。其螺旋细长，每圈含12对碱基，大沟平坦，小沟深而窄，核苷酸构象顺反相间，螺旋骨架呈Z字形。Z-DNA是B-DNA等右手螺旋构象的补充，可通过改变负超螺旋水平等方式参与基因转录调控。
+
+</details>
+
+<details>
+<summary><b>AP 位点</b>｜AP site</summary>
+
+> 所有细胞中都带有不同类型、能识别受损核酸位点的糖苷水解酶, 它能特异性切除受损核苷酸上的 N- β 糖苷键, 在 DNA 链上形成去嘌呤或去嘧啶位点, 统称为 AP 位点。
+
+</details>
+
+<details>
+<summary><b>DNA 的半不连续复制</b>｜semi-discontinuous replication</summary>
+
+> DNA 复制过程中前导链的复制是连续的, 而另一条链, 即滞后链的复制是中断的、不连续的。
+
+</details>
+
+<details>
+<summary><b>DNA 的变性</b>｜denaturation) 和复性 (renaturation</summary>
+
+> 变性是 DNA 双链的氢键断裂, 最后完全变成单链的过程。复性是热变性的 DNA 经缓慢冷却, 从单链恢复成双链的过程。
+
+</details>
+
+<details>
+<summary><b>DNA 聚合酶</b>｜DNA polymerase</summary>
+
+> 一种催化由脱氧核糖核苷三磷酸合成 DNA 的酶。因为它以 DNA 为模板, 所以又被称为依赖于 DNA 的 DNA 聚合酶。不同种类的 DNA 聚合酶可能参与 DNA 的复制和 / 或修复。
+
+</details>
+
+<details>
+<summary><b>DNA 聚合酶的延伸能力</b>｜DNA polymerase processivity</summary>
+
+> 是指每次聚合酶与模板 - 引物结合时所能添加的核苷酸的平均数, 它决定了 DNA 的合成速度。
+
+</details>
+
+<details>
+<summary><b>DNA 拓扑异构酶</b>｜DNA topoisomerase</summary>
+
+> 能在闭环 DNA 分子中改变两条链的环绕次数的酶, 它的作用机制是首先切断 DNA, 让 DNA 绕过断裂点以后再封闭形成双螺旋或超螺旋 DNA。
+
+</details>
+
+<details>
+<summary><b>P 转座子</b>｜P-element</summary>
+
+> 是一种能够诱发杂种不育(hybrid dysgenesis)的果蝇转座子, 果蝇中几乎所有的杂种不育都是由于 P 转座子插入基因组 W 位点而引起的。所有 P 转座子两翼都有 31 个碱基的倒置重复序列, P 转座子转座导致靶 DNA 复制产生 8 碱基正向重复序列。
+
+</details>
+
+<details>
+<summary><b>错义突变</b>｜missense mutation</summary>
+
+> 由于结构基因中某个核苷酸的变化使一种氨基酸的密码变成另一种氨基酸的密码。
+
+</details>
+
+<details>
+<summary><b>重组修复</b>｜Recombinant repair</summary>
+
+> 又被称为“复制后修复”，它发生在复制之后。机体细胞对在复制起始时尚未修复的 DNA 损伤部位可以先复制再修复, 即先跳过该损伤部位, 在新合成链中留下一个对应于损伤序列的缺口, 该缺口由 DNA 重组来修复: 先从同源 DNA 母链上将相应核苷酸序列片段移至子链缺口处, 然后再用新合成的序列补上母链空缺。大肠杆菌的 rec 基因编码主要的重组修复系统。
+
+</details>
+
+<details>
+<summary><b>复制起点</b>｜replication origin</summary>
+
+> 是 DNA 链上独特的具有起始 DNA 复制功能的碱基顺序。大肠杆菌的复制起点包括 OriC 和 OriH, OriC 是首选的复制起点, 而 OriH 是在 RNaseH 缺失突变株中发现的一系列复制起点。
+
+</details>
+
+<details>
+<summary><b>后随链,滞后链</b>｜lagging strand</summary>
+
+> 在 DNA 复制过程中,与复制叉运动方向相反的方向不连续延伸的 DNA 链被称为后随链或滞后链。
+
+</details>
+
+<details>
+<summary><b>结构变体</b>｜Structural Variant, SV</summary>
+
+> 染色体结构的变化, 包括片段插入、删除、倒转、易位、复制及拷贝数变化。
+
+</details>
+
+<details>
+<summary><b>卫星 DNA</b>｜satellite DNA</summary>
+
+> 又称随体 DNA。真核细胞 DNA 的一部分是不被转录的异染色质成分, 其碱基组成与主体 DNA 不同, 因而可用密度梯度沉降平衡技术如氯化铯梯度离心将它与主体 DNA 分离。卫星 DNA 通常是高度串联重复的 DNA。
+
+</details>
+
+<details>
+<summary><b>阳离子多聚体</b>｜polycation</summary>
+
+> 是一种表面具有带正电荷的氨基基团的多聚体, 氨基基团可与 DNA 的磷酸基团结合发生电性中和, 将 DNA 吸附而使其不易被核酸酶降解, 并可防止沉淀, 从而提高转染效率。
+
+</details>
+
+<details>
+<summary><b>转录单元</b>｜transcription unit</summary>
+
+> 是一段可被 RNA 聚合酶转录成一条连续 mRNA 链的 DNA, 包括转录起始和终止信号。一个简单的转录单位只携带合成一种蛋白的信息, 复合转录单位可携带不止一种蛋白质分子的信息。
+
+</details>
+
+<details>
+<summary><b>转座、移位</b>｜transposition</summary>
+
+> 遗传信息从一个基因座转移至另一个基因座的现象称为基因转座, 是由可移位因子(transposable element)介导的遗传物质重排。
+
+</details>
+
+<!-- BIO-GLOSSARY:END -->

@@ -1076,3 +1076,506 @@
   * DNA主要是信息分子，蛋白质主要是功能分子，RNA兼具信息和功能属性，并参与信息提取与加工。
   * 环境可影响RNA的产生和信息加工，使机体表现出新性状；若性状传给子代细胞或个体，即形成获得性遗传。
   * 教材进一步提出，某些亚细胞结构、细胞器和生物膜也能传递部分遗传信息，其受环境影响形成的结构改变有时可传给后代。
+
+<!-- BIO-GLOSSARY:START 自动生成,勿手改此区块 -->
+
+## 本章名词
+
+<details>
+<summary><b>编码链</b>｜coding strand　⭐真题</summary>
+
+> 指 DNA 双链中与 mRNA 序列(除 T/U 替换外)和方向相同的那条 DNA 链, 又称有意义链(sense strand)。
+
+</details>
+
+<details>
+<summary><b>RNA的编辑</b>｜RNA editing　⭐真题</summary>
+
+> RNA编辑是mRNA前体的加工方式之一，通过插入、删除或取代核苷酸残基，使DNA编码的遗传信息发生改变，是生物细胞内改变mRNA序列和蛋白质编码信息的重要途径。其机制主要有两种：位点特异性脱氨基作用（如胞嘧啶脱氨基变为尿嘧啶、腺嘌呤脱氨基变为次黄嘌呤）和指导RNA引导的尿嘧啶插入或删除。哺乳动物载脂蛋白mRNA的编辑是该过程的典型实例。
+
+</details>
+
+<details>
+<summary><b>RNA的可变剪接</b>｜alternative splicing　⭐真题</summary>
+
+> RNA的可变剪接（alternative splicing）是指在真核生物中，一个mRNA前体通过选择不同的剪接位点组合，形成不同mRNA剪接异构体的过程。这种方式使一个基因可以产生多种蛋白质序列，是基因表达多样性的重要表现形式。常见的可变剪接形式包括外显子遗漏、内含子保留、5'选择性剪接和3'选择性剪接等。可变剪接常发生在个体发育或细胞分化过程中，产生组织或发育阶段特异性的mRNA。
+
+</details>
+
+<details>
+<summary><b>SD序列</b>｜SD sequence　⭐真题</summary>
+
+> SD序列是原核生物mRNA中位于起始密码子AUG上游7～12个核苷酸处的保守序列，能与16S rRNA 3'端反向互补，在核糖体与mRNA结合过程中发挥关键作用，帮助招募核糖体以启动翻译。
+
+</details>
+
+<details>
+<summary><b>断裂基因</b>｜split gene　⭐真题</summary>
+
+> 断裂基因（split gene）是指真核生物中编码蛋白质的基因序列由外显子和内含子间隔排列而成的镶嵌结构。其中外显子为编码序列，内含子为非编码序列，它们在基因组DNA上交替出现，使基因呈断裂状。在基因表达过程中，需通过RNA剪接从初始转录物中切除内含子，将外显子拼接为成熟mRNA。断裂基因的内含子数量和长度差异很大，且内含子所占比例可能极高。
+
+</details>
+
+<details>
+<summary><b>RNA 的编辑</b>｜RNA editing　⭐真题</summary>
+
+> 是某些 RNA, 特别是 mRNA 的一种加工方式, 它导致了 DNA 所编码的遗传信息的改变, 因为经过编辑的 mRNA 序列发生了不同于模板 DNA 的变化。
+
+</details>
+
+<details>
+<summary><b>SD 序列</b>｜Shine-Dalgarno sequence　⭐真题</summary>
+
+> 存在于原核生物起始密码子 AUG 上游 7~12 个核苷酸处的一种 4~7 个核苷酸的保守片段, 它与 16S-rRNA 3' 端反向互补, 所以可将 mRNA 的 AUG 起始密码子置于核糖体的适当位置以便起始翻译作用。根据首次识别其功能意义的科学家命名。
+
+</details>
+
+<details>
+<summary><b>可译框, 可读框</b>｜open reading frame, ORF　⭐真题</summary>
+
+> 是指一组连续的含有三联密码子的能够翻译成为多肽链的 DNA 序列。它由起始密码子开始, 到终止密码子结束。
+
+</details>
+
+<details>
+<summary><b>hnRNA</b>｜heterogeneous nuclear RNA</summary>
+
+> hnRNA（核内不均一RNA）是真核生物中由RNA聚合酶II转录生成的原始转录产物，即mRNA的前体。它需要经过5'端加帽、3'端加多聚腺苷酸尾以及剪接等加工过程，去除内含子并连接外显子，才能形成成熟的mRNA，随后进入细胞质作为蛋白质合成的模板。由于其在加工前大小不均一，故称为核内不均一RNA。
+
+</details>
+
+<details>
+<summary><b>转录起点</b>｜transcription start site</summary>
+
+> 转录起点是指与新生RNA链第一个核苷酸相对应的DNA链上的碱基，通常为一个嘌呤。它是转录单位中RNA聚合酶开始合成RNA的起始位点，常标记为+1，用于划分上游和下游序列。
+
+</details>
+
+<details>
+<summary><b>剪接体</b>｜spliceosome</summary>
+
+> 是真核生物 mRNA 前体在剪接过程中组装形成的多组分复合物, 是一种具有催化剪接反映的核糖核蛋白复合体, 它包含约 150 种蛋白质和 5 种 RNA。
+
+</details>
+
+<details>
+<summary><b>模板链</b>｜template strand</summary>
+
+> 指 DNA 双链中能作为转录模板通过碱基互补原则指导 mRNA 前体合成的 DNA 链，又称反义链(antisense strand)。
+
+</details>
+
+<details>
+<summary><b>上游启动子元件</b>｜upstream promoter element, UPE</summary>
+
+> 将 TATA 区上游的保守序列称为上游启动子元件或称上游激活序列(upstream activating sequence, UAS)。
+
+</details>
+
+<details>
+<summary><b>转录图</b>｜Expression Profiling</summary>
+
+> 是基因组的 cDNA 片段图, 即表达序列标签图(EST)。通过得到的一段 cDNA 或一个 EST, 可筛选出全长的转录本, 并根据其序列的特异性将该转录本准确地定位于基因组上。
+
+</details>
+
+<details>
+<summary><b>-10区</b>｜-10 region</summary>
+
+> -10区是原核生物启动子中位于转录起始位点上游约10 bp处的保守序列，又称Pribnow区或Pribnow盒，由5个核苷酸组成的共同序列（如TATAAT），是RNA聚合酶的紧密结合点。该区与-35区之间的间距通常为16~19碱基对，对维持启动子活性和正确识别转录起始至关重要。
+
+</details>
+
+<details>
+<summary><b>16SrRNA</b>｜16S rRNA</summary>
+
+> 16S rRNA是原核生物核糖体30S小亚基中的一种核糖体RNA，长度约1475~1544个核苷酸，含有少量修饰碱基，其结构高度保守。该分子全部压缩在30S小亚基内，在蛋白质合成中发挥积极作用，与mRNA、50S亚基以及核糖体A位和P位tRNA的反密码子直接相互作用。
+
+</details>
+
+<details>
+<summary><b>-35区</b>｜-35 region</summary>
+
+> -35区是原核生物启动子中位于转录起始位点上游约35 bp处的保守DNA序列，一致序列为TTGACA。它是RNA聚合酶全酶识别与结合启动子的关键元件之一，与-10区共同构成启动子核心。两者之间的间距对启动子活性至关重要，通常为16~19 bp，间距不当会降低转录效率。
+
+</details>
+
+<details>
+<summary><b>Ⅰ类自剪接内含子</b>｜group I self-splicing intron</summary>
+
+> Ⅰ类自剪接内含子是一类自身具有催化活性的RNA内含子，能通过RNA分子折叠成特定构象进行自我剪接，无需剪接体参与。其剪接过程发生两次磷酸二酯键转移（转酯反应），从而切除内含子并连接两侧外显子。这类内含子最初在原生动物四膜虫的rRNA前体中发现，也存在于细菌中，主要分布于真核细胞核的前体rRNA、细胞器RNA及少数细菌RNA。
+
+</details>
+
+<details>
+<summary><b>Ⅱ类自剪接内含子</b>｜group II self-splicing intron</summary>
+
+> Ⅱ类自剪接内含子是一类存在于细胞器RNA和部分细菌RNA中的内含子，其自身具有催化活性，能够通过折叠成特殊的构象进行自我剪接，无需形成剪接体即可完成内含子的切除和外显子的连接。
+
+</details>
+
+<details>
+<summary><b>Altman</b>｜Altman</summary>
+
+> Altman是一位科学家，1983年与同事发现RNase P中的RNA组分能够催化tRNA前体的加工，这一发现与Cech对四膜虫rRNA前体自剪接的研究共同证明了RNA具有催化功能，打破了酶都是蛋白质的传统观念，为核酶概念的建立提供了关键证据。
+
+</details>
+
+<details>
+<summary><b>CCAAT区</b>｜CCAAT box</summary>
+
+> CCAAT区是真核生物基因启动子中常见的顺式作用元件，通常位于转录起始位点上游约-75 bp处，其保守序列为GGCCAATCT。该元件可被特定的转录因子（如NF-Y）识别和结合，参与调控RNA聚合酶Ⅱ介导的基因转录起始效率。
+
+</details>
+
+<details>
+<summary><b>Cech</b>｜Cech</summary>
+
+> Cech 是指托马斯·切赫（Thomas Cech），1982 年他首次在四膜虫 rRNA 前体加工中发现 RNA 具有自剪接作用，从而提出核酶（ribozyme）的概念，证明 RNA 也可作为生物催化剂，打破了酶都是蛋白质的传统观念。
+
+</details>
+
+<details>
+<summary><b>DNA模板功能抑制剂</b>｜DNA template function inhibitor</summary>
+
+> DNA模板功能抑制剂是一类通过与双链DNA结合而改变其模板功能，从而抑制依赖于DNA的RNA转录及DNA复制的物质。主要包括放线菌素D（与DNA形成非共价复合物）、烷化剂（如氮芥，使DNA交联）和嵌入染料（如溴化乙锭，插入碱基对间引起移码突变）。这些化合物因干扰基因表达和基因组稳定性而具有抗菌、抗癌或致突变作用。
+
+</details>
+
+<details>
+<summary><b>Edwards</b>｜Edwards</summary>
+
+> 罗伯特·爱德华兹（Robert Edwards），英国生理学家，因在体外受精（IVF）技术领域的开创性工作而获得2010年诺贝尔生理学或医学奖，其研究促进了生殖医学和分子生物学的发展。
+
+</details>
+
+<details>
+<summary><b>GU-AG法则</b>｜GU-AG rule</summary>
+
+> GU-AG法则是指真核生物细胞核mRNA前体中绝大多数内含子所共有的保守剪接边界序列模式：其5'剪接位点（供体位点）的前两个核苷酸为GU，3'剪接位点（接纳体位点）的末两个核苷酸为AG。此规律又称Chambon法则，是识别剪接位点、指导剪接体进行准确内含子切除的关键信号。
+
+</details>
+
+<details>
+<summary><b>mRNA</b>｜messenger RNA</summary>
+
+> 信使RNA（mRNA）是携带DNA遗传信息并通过三联体密码翻译生成蛋白质的模板分子。原核生物mRNA常为多顺反子，半衰期短，转录与翻译紧密偶联；真核生物mRNA多为单顺反子，需在核内从前体加工成熟，其结构特征为5'端帽子结构和3'端poly(A)尾，成熟后进入细胞质指导蛋白质合成。
+
+</details>
+
+<details>
+<summary><b>RNA的功能</b>｜RNA function</summary>
+
+> RNA具有信息分子和功能分子双重作用。作为信息分子，RNA负责遗传信息的贮藏与传递，是DNA到蛋白质的中间载体；作为功能分子，它参与蛋白质合成，部分RNA作为核酶催化RNA剪接等反应，并参与基因表达调控；在某些病毒中，RNA还作为遗传物质。
+
+</details>
+
+<details>
+<summary><b>RNA的剪接</b>｜RNA splicing</summary>
+
+> RNA剪接是指从mRNA前体（hnRNA）中切除内含子、连接外显子形成成熟mRNA的过程，是真核生物基因表达的关键步骤。该过程由剪接体介导，剪接体是由U1、U2、U4、U5、U6等snRNA与约150种蛋白质组装而成的核糖核蛋白复合物，通过snRNP识别5'剪接位点和分支点并进行转酯反应。此外，通过选择性剪接可选择不同剪接位点组合，从单一mRNA前体产生多种剪接异构体，增加蛋白质多样性。
+
+</details>
+
+<details>
+<summary><b>RNA的结构特点</b>｜RNA structure</summary>
+
+> RNA含有核糖，以尿嘧啶替代胸腺嘧啶，通常为单链线性分子。RNA链可通过自身折叠在互补序列间形成局部双螺旋结构，呈现发夹、凸起、环状、四通道内环等多种茎环结构，且存在G-U等非Watson-Crick碱基对增强配对能力。RNA还能折叠形成包括假结在内的复杂三级结构，其未配对区域可自由旋转，使碱基与骨架间发生非常规相互作用。
+
+</details>
+
+<details>
+<summary><b>RNA的再编码</b>｜RNA recoding</summary>
+
+> RNA 的再编码是指 mRNA 在翻译过程中改变原有的编码和读码方式，以不同于常规规则合成蛋白质的现象。其表现形式包括核糖体程序性 +1/-1 移位、核糖体跳跃及终止子通读，这些过程利用特殊的读码信号和因子作用，使一个 mRNA 能产生两种或多种相互关联但不同的蛋白质，可能是蛋白质合成的一种调节机制。
+
+</details>
+
+<details>
+<summary><b>RNA聚合酶抑制剂</b>｜RNA polymerase inhibitor</summary>
+
+> RNA聚合酶抑制剂是一类能与RNA聚合酶结合并抑制其转录活性的物质，属于RNA转录抑制剂中的一类。例如，利福霉素和利迪链霉素分别与细菌RNA聚合酶的β亚基结合，抑制转录起始；α-鹅膏蕈碱则主要抑制真核生物RNA聚合酶II的活性。
+
+</details>
+
+<details>
+<summary><b>rRNA</b>｜rRNA</summary>
+
+> 核糖体 RNA（rRNA）是核糖体的核心组分，与核糖体蛋白共同构成核糖体的大小亚基，为蛋白质合成提供结构基础并参与催化功能。rRNA 分子具有高度保守的序列和结构域，例如细菌 5S rRNA 含 CGAAC 序列与 tRNA 相互作用，16S rRNA 直接与 mRNA 及 tRNA 反密码子结合，确保翻译准确进行。真核生物 rRNA 前体在核仁中经 snoRNA 指导的剪切加工，生成成熟的 18S、5.8S 和 28S rRNA。rRNA 在细胞总 RNA 中占 80%～85%，其 28S 和 18S 条带常作为鉴定 RNA 质量的关键指标。
+
+</details>
+
+<details>
+<summary><b>rRNA前体的转录后加工</b>｜rRNA post-transcriptional processing</summary>
+
+> rRNA前体的转录后加工是真核生物中，rRNA基因转录产生的前体RNA在核仁中经剪接和剪切等步骤生成成熟rRNA的过程。该过程极为保守，前体与蛋白质结合形成核糖核蛋白前体颗粒，其长度约为成熟rRNA的2倍。核仁小RNA（snoRNA）通过识别特定立体结构来确定切割位点。以人HeLa细胞为例，前体依次经剪切产生41S、32S和20S等中间产物，最终形成18S、5.8S和28S rRNA。
+
+</details>
+
+<details>
+<summary><b>snRNP</b>｜snRNP</summary>
+
+> snRNP（小核糖核蛋白）是由snRNA（小核RNA）与几种蛋白质组成的RNA-蛋白质复合物，是剪接体的亚单位。剪接体由多种snRNP组成，参与真核生物mRNA前体的剪接。snRNP在剪接中执行重要功能：识别5'剪接位点和分支点，并将它们集结在一起，以及催化或协助催化RNA的剪接和连接反应。
+
+</details>
+
+<details>
+<summary><b>TATA区</b>｜TATA box</summary>
+
+> TATA区（TATA box）是真核生物RNA聚合酶Ⅱ启动子中一段富含TA的保守序列，因其前四个碱基常为TATA而得名。该序列通常位于转录起始位点上游约-25～-30 bp处，是核心启动子的重要组成部分，与转录因子结合参与转录起始复合物的组装，确保转录的精确起始。
+
+</details>
+
+<details>
+<summary><b>tRNA前体的转录后加工</b>｜post-transcriptional processing of tRNA precursor</summary>
+
+> tRNA前体的转录后加工是指真核生物中tRNA初级转录物经过剪切、添加末端序列和碱基修饰等步骤转变为成熟有功能tRNA的过程。主要包括：由tRNA内切核酸酶切除内含子并由RNA连接酶连接外显子，剪接信号依赖于tRNA共同的二级结构；在3'端由tRNA核苷酸转移酶添加CCA-OH；以及通过甲基化酶等进行稀有核苷酸的修饰。
+
+</details>
+
+<details>
+<summary><b>不依赖于ρ因子的终止</b>｜rho-independent termination</summary>
+
+> 不依赖于ρ因子的终止是原核生物中一种无需ρ因子等辅助蛋白参与、仅由RNA聚合酶核心酶识别模板DNA上的内在终止子即可完成的转录终止方式。内在终止子具有特殊的序列结构：在终止位点上游存在一段富含GC碱基的反向重复序列，由该序列转录产生的RNA能够形成发夹结构，这一结构特征促使转录复合物解体并释放新生RNA链。
+
+</details>
+
+<details>
+<summary><b>单顺反子mRNA</b>｜monocistronic mRNA</summary>
+
+> 单顺反子mRNA（monocistronic mRNA）是指只编码一个蛋白质的mRNA分子。与原核生物中常见的可编码多个蛋白质的多顺反子mRNA不同，真核生物的mRNA几乎都是单顺反子结构。每个单顺反子mRNA仅含有一个开放阅读框，从起始密码子AUG至终止密码子，指导翻译出一条多肽链。
+
+</details>
+
+<details>
+<summary><b>多尾</b>｜A</summary>
+
+> 多尾又称多(A)尾，指绝大多数真核生物mRNA 3'末端的一段多腺苷酸序列，长度一般为40～200个腺苷酸。其合成由内切酶在mRNA 3'端特定部位切开后，由多(A)合成酶催化加上。多(A)尾可结合poly(A)结合蛋白，参与mRNA环化并提高翻译效率。
+
+</details>
+
+<details>
+<summary><b>分支点</b>｜branch point</summary>
+
+> 分支点是指在真核生物pre-mRNA剪接过程中，位于内含子内部、3'剪接位点上游18~50个核苷酸处的一个保守腺苷酸位点，该腺苷酸具有游离2'-OH，在剪接第一步转酯反应中亲核攻击5'剪接位点，形成套索状中间物，是剪接体识别和催化剪接的关键序列。
+
+</details>
+
+<details>
+<summary><b>封闭复合物</b>｜closed complex</summary>
+
+> 封闭复合物是原核生物转录起始阶段，RNA聚合酶全酶识别启动子并与之可逆性结合形成的复合物，此时DNA链仍保持双链状态。
+
+</details>
+
+<details>
+<summary><b>剪接型核酶</b>｜splicing ribozyme</summary>
+
+> 剪接型核酶是一类具有催化活性的RNA分子，能够通过自身折叠形成特定构象，催化内含子的自我剪接，无需剪接体参与。典型的剪接型核酶包括I类和II类内含子，它们通过两次转酯反应实现磷酸二酯键的转移，完成内含子的切除和外显子的连接。
+
+</details>
+
+<details>
+<summary><b>剪切型核酶</b>｜cleaving ribozyme</summary>
+
+> 剪切型核酶是一类具有催化功能的RNA分子，能够特异性识别并切割靶RNA链中的磷酸二酯键，从而阻断基因表达。其催化活性依赖于特定的空间结构，常见类型包括锤头型、发夹型等，其中锤头结构由三个茎区和保守核苷酸组成，是自剪切RNA的典型特征。
+
+</details>
+
+<details>
+<summary><b>焦磷酸编辑</b>｜pyrophosphate editing</summary>
+
+> 焦磷酸编辑是RNA聚合酶在转录延伸过程中进行校对的一种机制，通过逆向反应重新加入焦磷酸，催化去除错误插入的核糖核苷酸。该方式既能去除错误碱基也能去除正确碱基，但由于聚合酶在错误碱基处停留时间更长，因此去除错误碱基的频率更高。
+
+</details>
+
+<details>
+<summary><b>聚合酶全酶</b>｜polymerase holoenzyme</summary>
+
+> 聚合酶全酶是指原核生物RNA聚合酶的核心酶（由2个α亚基、一个β亚基、一个β'亚基和一个ω亚基组成）与一个σ亚基结合形成的复合物。它在转录起始过程中起关键作用，其中σ因子负责识别启动子序列，确保转录从正确的起始位点开始；核心酶具有RNA合成的催化活性，但只有全酶才能特异性地结合DNA启动子区域，起始转录。
+
+</details>
+
+<details>
+<summary><b>开放复合物</b>｜open complex</summary>
+
+> 开放复合物是指原核生物转录起始过程中，RNA聚合酶全酶与启动子结合后，DNA双链局部解开所形成的复合物。它由最初的封闭复合物经构象变化转变而来，此时聚合酶结合的DNA序列中有一小段双链被解开。对于强启动子，该转变不可逆且迅速。开放复合物随后可与初始NTP结合，进入磷酸二酯键形成阶段，继而转变为包含RNA聚合酶、DNA和新生RNA的三元复合物。
+
+</details>
+
+<details>
+<summary><b>模板识别</b>｜template recognition</summary>
+
+> 模板识别是转录起始的重要阶段，指RNA聚合酶识别启动子序列并与启动子DNA双链特异性结合的过程。该阶段为转录的起始奠定基础，确保RNA聚合酶定位到正确的转录起始位点。在原核生物中，这一识别过程依赖RNA聚合酶全酶中的σ因子完成。
+
+</details>
+
+<details>
+<summary><b>起始点识别复合物</b>｜origin recognition complex</summary>
+
+> 起始点识别复合物（origin recognition complex, ORC）是真核生物DNA复制中负责识别复制起始点的多亚基蛋白复合物，首先在酿酒酵母中发现，随后在裂殖酵母、果蝇和爪蟾等真核生物中也鉴定出类似复合物。ORC在细胞周期的G₁期识别并结合复制起始点，参与复制器选择，是前复制复合体（pre-RC）组装的关键组分，从而确保每条染色体在每个细胞周期中仅复制一次。
+
+</details>
+
+<details>
+<summary><b>三元复合物</b>｜ternary complex</summary>
+
+> 三元复合物（ternary complex）是指在原核生物转录起始阶段，RNA聚合酶全酶与启动子DNA形成的开放复合物结合最初两个NTP并催化形成第一个磷酸二酯键后，所形成的一种包含RNA聚合酶、DNA模板和新生RNA链的转录中间复合物。该复合物的出现标志着转录起始进入关键步骤，并随后可进入流产式起始（合成并释放短RNA）或转向有效的RNA链延伸过程。
+
+</details>
+
+<details>
+<summary><b>上游序列</b>｜upstream sequence</summary>
+
+> 上游序列是指位于转录起点5'侧的DNA序列。通常将转录起点对应的碱基位置定为+1，其上游方向依次编号为-1、-2、-3等。启动子等调控元件常位于上游序列中，对转录起始起关键作用。
+
+</details>
+
+<details>
+<summary><b>水解编辑</b>｜hydrolytic editing</summary>
+
+> 水解编辑是氨酰tRNA合成酶的一种校对机制，通过水解作用切除错误连接的氨基酸或氨酰-tRNA，纠正氨酰化错误，从而保证蛋白质合成的准确性。
+
+</details>
+
+<details>
+<summary><b>依赖于ρ因子的终止</b>｜rho-dependent termination</summary>
+
+> 依赖于ρ因子的终止是原核生物转录终止的一种类型，需要ρ因子蛋白的参与。当RNA聚合酶移动到终止子区域暂停时，ρ因子结合到新生RNA的3'端并沿RNA移动，追上RNA聚合酶后利用其RNA-DNA解旋酶活性，使RNA-DNA杂合体解离，转录产物释放，转录复合物解体。
+
+</details>
+
+<details>
+<summary><b>有义链</b>｜sense strand</summary>
+
+> 有义链是DNA双链中与转录产物RNA序列相同（仅T被U取代）的那条链，又称编码链。在转录过程中，它以反义链为模板进行RNA合成时并不作为模板，而是与反义链互补配对。转录终止后，有义链与模板链重新形成DNA双链结构。
+
+</details>
+
+<details>
+<summary><b>转录延伸</b>｜transcription elongation</summary>
+
+> 转录延伸是RNA合成连续阶段，RNA聚合酶沿DNA模板链移动，催化三磷酸核苷酸（NTP）逐个添加到新生RNA链的3'-OH端，使RNA链按5'→3'方向延伸。此过程中，DNA双螺旋持续解旋，暴露出单链模板，在解链区形成RNA-DNA杂合物，而在其后模板链与非模板链重新形成双螺旋，RNA链逐步释放。延伸机制涉及DNA转录循环：NTP先填补底物位点并形成磷酸二酯键，随后RNA聚合酶活性位点核酸发生移位，连接区α螺旋经历笔直-弯折-笔直的构象变化，为下一轮合成腾出空位点。
+
+</details>
+
+<details>
+<summary><b>转录终止</b>｜transcription termination</summary>
+
+> 转录终止是指RNA聚合酶在转录终止位点停止RNA合成，RNA-DNA杂合物分离，转录泡瓦解，DNA恢复双链，RNA链和酶被释放的过程。原核生物终止子分为不依赖于ρ因子的内在终止子和依赖于ρ因子的终止子；内在终止子含富含GC的反向重复序列，转录产物形成发夹结构。抗终止因子可在特定位点阻止终止，使RNA聚合酶通读。
+
+</details>
+
+<details>
+<summary><b>Pribnow 区</b>｜Pribnow box</summary>
+
+> 在启动子区有一个由 5 个核苷酸组成的共同序列, 是 RNA 聚合酶的紧密结合点, 称为 Pribnow 区, 这个区的中央大约位于起始点上游 10 bp 处, 所以又称为 -10 区。
+
+</details>
+
+<details>
+<summary><b>RNA 的再编码</b>｜RNA recoding</summary>
+
+> 是指 RNA 编码和读码方
+
+</details>
+
+<details>
+<summary><b>RNA 剪接</b>｜RNA splicing</summary>
+
+> 从 mRNA 前体分子中切除被称为内含子(intron)的非编码区, 并使基因中被称为外显子(exon)的编码区拼接形成成熟 mRNA 的过程就称为 RNA 的剪接。
+
+</details>
+
+<details>
+<summary><b>RNA 聚合酶</b>｜RNA polymerase</summary>
+
+> 使用 DNA 作为模板合成 RNA 的酶, 也称为 DNA 依赖性 RNA 聚合酶。
+
+</details>
+
+<details>
+<summary><b>TATA 区</b>｜TATA box</summary>
+
+> 在真核生物基因中位于转录起始点上游 -25~-30 bp 处的富含 AT 的保守区, 是 RNA 聚合酶与启动子的结合位点, 也称为 Hogness 区(Hogness box), 类似于原核基因中的 Pribnow 区。
+
+</details>
+
+<details>
+<summary><b>单顺反子 mRNA</b>｜monocistronic mRNA</summary>
+
+> 把只编码一个蛋白质的 mRNA 称为单顺反子 mRNA。
+
+</details>
+
+<details>
+<summary><b>多顺反子信使 RNA</b>｜polycistronic messenger RNA</summary>
+
+> 一种能作为两种或多种多肽链翻译模板的信使 RNA, 由 DNA 链上的邻近顺反子所界定。
+
+</details>
+
+<details>
+<summary><b>核不均一 RNA</b>｜hnRNA, heterogeneous nuclear RNA</summary>
+
+> 即 mRNA 的前体, 经过 5' 加 “帽” 和 3' 酶切加多聚腺苷酸, 再经过 RNA 的剪接, 编码蛋白质的外显子部分就连接成为一个连续的可译框, 作为蛋白质合成的模板。
+
+</details>
+
+<details>
+<summary><b>魔斑核苷酸</b>｜magic spot nucleotide</summary>
+
+> 受严紧控制的细菌生长过程中一旦缺乏氨基酸供应,细菌会产生一个应急反应,使蛋白质和RNA的合成速率迅速降下来。魔斑核苷酸指的就是此过程中由大量GTP合成的鸟苷四磷酸(ppGpp)和鸟苷五磷酸(pppGpp),它们的主要作用可能是影响RNA聚合酶与启动子结合的专一性,诱发应急反应,帮助细菌渡过难关。
+
+</details>
+
+<details>
+<summary><b>内含子的变位剪接</b>｜alternative splicing</summary>
+
+> 在高等真核生物中,内含子通常是有序或组成性地从 mRNA 前体中被剪接。然而,在个体发育或细胞分化的某个或某些特定阶段可以有选择性地越过某些外显子或某个剪接点进行 RNA 剪接,产生出组织或发育阶段特异性 mRNA,称为内含子的变位剪接。
+
+</details>
+
+<details>
+<summary><b>顺反子</b>｜cistron</summary>
+
+> 功能基因, 意为通过顺式(基因序列)及反式(所编码的蛋白质)试验所确定的一个遗传学单位。
+
+</details>
+
+<details>
+<summary><b>套索 RNA</b>｜lariat RNA</summary>
+
+> 真核生物前体 mRNA 进行内含子剪接时, 内含子 5' 端和 3' 端相互连接而形成的中间体。
+
+</details>
+
+<details>
+<summary><b>校对</b>｜proofreading</summary>
+
+> 在复制、转录或翻译过程中校正错误的机制, 包括从正在伸长的核酸或蛋白质链中去除不正确掺入的核苷酸或氨基酸, 并以正确的单元取代。
+
+</details>
+
+<details>
+<summary><b>指导 RNA</b>｜guide RNA</summary>
+
+> 原生动物及植物线粒体中进行 RNA 编辑所需的 RNA 序列, 是与已正确编辑的 RNA 序列互补的一小段 RNA, 被用来作为向未经编辑的 RNA 中插入碱基的模板。
+
+</details>
+
+<details>
+<summary><b>转录起始位点</b>｜transcription initiation site</summary>
+
+> 是指与新生RNA链第一个核苷酸相对应DNA链上的碱基位点，通常为嘌呤。常把起点前，即5'末端的序列称为上游(upstream)，而把其后面即3'末端的序列称为下游(downstream)。
+
+</details>
+
+<details>
+<summary><b>转录前起始复合物</b>｜preinitiation transcription complex, PIC</summary>
+
+> 在真核 RNA 转录起始过程中, 真核生物 RNA 聚合酶不能直接识别基因的启动子区, 需要转录调控因子等辅助蛋白质按特定顺序结合于启动子上, 帮助聚合酶特异地结合到启动子上, 形成转录前起始复合物, 解开 DNA 双链, 指导转录。
+
+</details>
+
+<!-- BIO-GLOSSARY:END -->

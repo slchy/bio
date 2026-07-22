@@ -1002,3 +1002,380 @@ $$
 
 * N端为赖氨酸或精氨酸时最不稳定，平均约2～3 min即被降解。
 * 泛素调控的蛋白质降解不仅清除错误蛋白质，还参与调控细胞生长周期、DNA复制和染色体结构。
+
+<!-- BIO-GLOSSARY:START 自动生成,勿手改此区块 -->
+
+## 本章名词
+
+<details>
+<summary><b>Kornberg</b>｜Kornberg</summary>
+
+> Kornberg 指美国生物化学家 Arthur Kornberg，因发现 DNA 聚合酶 I 并实现 DNA 体外合成而获得 1959 年诺贝尔生理学或医学奖。其工作阐明了 DNA 复制的酶学机制，为分子生物学及重组 DNA 技术奠定基础。
+
+</details>
+
+<details>
+<summary><b>摆动假说</b>｜wobble hypothesis</summary>
+
+> Crick 为解释反密码子中某些稀有成分(如 I)的配对以及许多氨基酸有 2 个以上密码子的问题而提出的假说。
+
+</details>
+
+<details>
+<summary><b>蛋白酶体</b>｜proteasome</summary>
+
+> 胞质溶液中的大型蛋白质复合物, 负责降解胞质溶液中不需要的或受到损伤的蛋白质, 需要被降解的蛋白质会先被泛素化修饰。
+
+</details>
+
+<details>
+<summary><b>翻译后运转机制</b>｜post-translational translocation</summary>
+
+> 蛋白质从核糖体上释放后才发生运转。
+
+</details>
+
+<details>
+<summary><b>翻译运转同步机制</b>｜co-translational translocation</summary>
+
+> 某个蛋白质的合成和运转是同时发生的。
+
+</details>
+
+<details>
+<summary><b>信号识别蛋白</b>｜signal recognition protein, SRP</summary>
+
+> 由6种紧密结合的信号识别蛋白质与一个长约300核苷酸的7S RNA分子形成的核糖核蛋白颗粒, 能识别核糖体上新合成多肽链的前导序列并与其结合, 将核糖体、新合成肽链及信号识别颗粒导向内质网, 使肽链的翻译及转运同时进行。
+
+</details>
+
+<details>
+<summary><b>Crick</b>｜Crick</summary>
+
+> 弗朗西斯·克里克（Francis Crick）是分子生物学的主要奠基人之一，与沃森共同提出DNA双螺旋结构模型，并推测DNA进行半保留复制。他最先提出中心法则，阐明了遗传信息从DNA到RNA再到蛋白质的单向传递规律。此外，克里克通过实验证实了遗传密码由三个核苷酸组成的三联子性质。
+
+</details>
+
+<details>
+<summary><b>Nirenberg</b>｜Nirenberg</summary>
+
+> Nirenberg是美国生物化学家，在遗传密码破译中作出了开创性贡献。1961年，他利用大肠杆菌无细胞翻译体系和人工合成的多聚核苷酸模板，首次证明UUU编码苯丙氨酸。此后，他与Leder合作建立核糖体结合技术，通过三核苷酸模板特异性结合氨酰tRNA的系统实验，确定了多种密码子对应的氨基酸。
+
+</details>
+
+<details>
+<summary><b>Prusiner</b>｜Prusiner</summary>
+
+> Stanley B. Prusiner 是美国生物化学家，因发现朊病毒（一种仅由蛋白质构成、不含核酸的感染性因子）并提出朊病毒疾病假说而获 1997 年诺贝尔生理学或医学奖，其工作揭示了蛋白质构象病致病机制的新范式。
+
+</details>
+
+<details>
+<summary><b>Roberts</b>｜Roberts</summary>
+
+> Richard J. Roberts，美国分子生物学家，与Phillip A. Sharp因发现断裂基因（内含子）而共同获得1993年诺贝尔生理学或医学奖。他们的研究揭示了真核生物基因的不连续性，即基因由编码区（外显子）与非编码区（内含子）相间排列而成，这一发现对理解基因结构与表达调控具有重要意义。
+
+</details>
+
+<details>
+<summary><b>Schleiden</b>｜Schleiden</summary>
+
+> 德国植物学家，与动物学家 Schwann 共同建立了细胞学说，提出细胞是一切动植物结构的基本单位。
+
+</details>
+
+<details>
+<summary><b>SRP</b>｜signal recognition particle</summary>
+
+> 信号识别颗粒（signal recognition particle, SRP）是一种核糖核蛋白复合体，在翻译过程中识别并结合新生肽链N端的信号肽，介导核糖体与内质网膜的对接，从而使蛋白质边翻译边跨膜转运。
+
+</details>
+
+<details>
+<summary><b>Sumner</b>｜Sumner</summary>
+
+> Sumner（萨姆纳）于1936年证实酶是蛋白质，这一发现为蛋白质化学和分子生物学的发展奠定了基础。
+
+</details>
+
+<details>
+<summary><b>SUMO</b>｜SUMO</summary>
+
+> SUMO（小泛素相关修饰物，small ubiquitin-related modifier）是一类类泛素蛋白，参与蛋白质翻译后修饰。SUMO化修饰过程类似于泛素化，依赖ATP，由SUMO活化酶E1激活SUMO的C端甘氨酸残基，随后由SUMO结合酶E2通过识别底物蛋白上的保守序列将其共价连接至靶蛋白赖氨酸残基上，从而调节蛋白质功能。
+
+</details>
+
+<details>
+<summary><b>tRNA</b>｜tRNA</summary>
+
+> tRNA（转运RNA）是在蛋白质合成中起接合体作用的一类小分子RNA，它既能通过3'端CCA-OH与特定氨基酸共价连接形成氨酰tRNA，又能通过自身的反密码子与mRNA上的密码子配对，从而将氨基酸准确地运送到核糖体并插入多肽链的相应位置。所有tRNA都具有三叶草型二级结构，包括受体臂、TψC臂、反密码子臂和D臂，且含有多种修饰碱基。细胞内存在多种tRNA，如识别起始密码子的起始tRNA和识别延伸密码子的延伸tRNA，以及代表同一种氨基酸的同工tRNA。tRNA与氨基酸的正确偶联由氨酰tRNA合成酶催化保障，该反应消耗ATP，是翻译保真性的基础。
+
+</details>
+
+<details>
+<summary><b>tRNA的L-形三级结构</b>｜L-shaped tertiary structure of tRNA</summary>
+
+> tRNA的L-形三级结构是tRNA在二级结构基础上通过分子重排进一步折叠形成的L形三维构象，由氢键维持。该结构中，受体臂和TψC臂的杆状区域构成第一个双螺旋，D臂和反密码子臂的杆状区域形成第二个双螺旋，两个双螺旋上各有一个缺口。TψC臂和D臂的套索状结构位于“L”的转折点，使受体臂顶部碱基和反密码子臂的套索状结构分别位于“L”的两端。这种三级结构与氨酰-tRNA合成酶对tRNA的识别有关。
+
+</details>
+
+<details>
+<summary><b>tRNA的三叶草二级结构</b>｜cloverleaf secondary structure of tRNA</summary>
+
+> tRNA的三叶草二级结构是指tRNA分子由于内部碱基互补配对而形成的具有四臂环的二级结构，形状类似三叶草。该结构包括受体臂（其3'端为CCA序列，是氨基酸结合位点）、TψC臂（含拟尿嘧啶）、反密码子臂（套索中央含有反密码子）和D臂（含二氢尿嘧啶）。每条臂均由碱基配对的杆状结构和未配对的套索结构组成，是tRNA实现识别并结合氨基酸以及参与蛋白质合成的重要结构基础。
+
+</details>
+
+<details>
+<summary><b>tRNA结合位点</b>｜tRNA binding site</summary>
+
+> tRNA结合位点是指核糖体上与tRNA相互作用的三个特定部位，分别称为A位（氨酰tRNA结合位点）、P位（肽酰tRNA结合位点）和E位（出口位点）。A位负责接受携带氨基酸的氨酰tRNA，P位结合携带肽链的肽酰tRNA，E位是脱氨基酰tRNA离开核糖体的位点。这些位点协同作用，确保mRNA密码子与tRNA反密码子的精确配对以及肽键的形成。
+
+</details>
+
+<details>
+<summary><b>氨酰tRNA合成酶</b>｜aminoacyl-tRNA synthetase</summary>
+
+> 氨酰tRNA合成酶是一类催化氨基酸共价连接于tRNA 3'端的特异性酶。它通过消耗ATP，先将氨基酸活化为酶-氨酰腺苷酸复合物，再将氨酰基转移至tRNA 3'端核糖的羟基上，形成氨酰tRNA。该酶对氨基酸和tRNA具有高度专一性，确保蛋白质合成的忠实性。生物体内至少存在20种具有氨基酸专一性的氨酰tRNA合成酶，一种酶可识别多个带有不同反密码子的同工tRNA。
+
+</details>
+
+<details>
+<summary><b>伴侣素</b>｜chaperonin</summary>
+
+> 伴侣素是一类具有独特双环状结构的分子伴侣，可形成封闭的桶状腔室，为蛋白质的正确折叠提供隔离的微环境，通常以依赖ATP的方式协助其他蛋白质折叠。
+
+</details>
+
+<details>
+<summary><b>沉降系数</b>｜sedimentation coefficient</summary>
+
+> 沉降系数是衡量生物大分子或亚细胞颗粒在离心场中沉降速率的物理参数，单位是斯维德伯格（S）。在核糖体研究中，沉降系数常用于表征核糖体及其大小亚基的组成和大小差异，如原核核糖体为70S，真核核糖体为80S。
+
+</details>
+
+<details>
+<summary><b>出核信号序列</b>｜nuclear export signal</summary>
+
+> 出核信号序列是蛋白质分子内的一段特定氨基酸序列，可被核孔复合体识别，介导蛋白质从细胞核向细胞质的主动转运。
+
+</details>
+
+<details>
+<summary><b>蛋白质的NEDD化修饰</b>｜NEDDylation</summary>
+
+> 蛋白质的NEDD化修饰（NEDDylation）是指类泛素蛋白NEDD8在E1、E2、E3酶级联作用下，通过其C端第76位甘氨酸与底物蛋白赖氨酸残基共价连接的翻译后修饰过程。该修饰与泛素化机制相似，但不会介导蛋白酶体依赖的蛋白质降解，而是通过改变底物功能来调节细胞活动。NEDD化修饰参与细胞增殖、分化、发育、细胞周期和信号转导等重要生命过程的调控。
+
+</details>
+
+<details>
+<summary><b>多核糖体</b>｜polysome</summary>
+
+> 多核糖体是指一条mRNA分子上结合多个核糖体所形成的复合结构。由于核糖体体积较大，mRNA链上一般每80个核苷酸结合一个核糖体。多核糖体通过多(A)尾结合蛋白与eIF-4G亚基的相互作用促进mRNA环化，从而高效利用一条mRNA模板同时合成多条多肽链，显著提高翻译效率。真核生物和细菌均利用多核糖体进行蛋白质合成。
+
+</details>
+
+<details>
+<summary><b>翻译的起始</b>｜translation initiation</summary>
+
+> 翻译的起始是指在mRNA模板上装配核糖体、起始tRNA和多种蛋白因子，形成起始复合物并将起始氨基酸置于核糖体P位的过程。在原核生物中，30S小亚基先通过SD序列与mRNA结合，随后fMet-tRNA^fMet在IF-2和GTP协助下进入P位，再与50S大亚基结合形成70S起始复合物；在真核生物中，40S小亚基先与Met-tRNA^Met结合，再识别mRNA 5'端帽子并扫描至起始密码子AUG，最后与60S大亚基结合形成80S起始复合物。整个过程需起始因子和GTP提供能量，确保翻译从正确的起始密码子开始。
+
+</details>
+
+<details>
+<summary><b>反密码子臂</b>｜anticodon arm</summary>
+
+> 反密码子臂是tRNA三叶草二级结构中的一条手臂，由碱基配对形成的杆状结构和中央无法配对的套索状结构组成，套索中央含有三联反密码子，其5'端为尿嘧啶、3'端为嘌呤。在tRNA的L形三级结构中，反密码子臂的杆状区域与D臂杆状区域构成一个双螺旋，而其套索状结构形成L形的一个端点，使反密码子能与mRNA上的密码子进行碱基配对识别。
+
+</details>
+
+<details>
+<summary><b>泛素化修饰</b>｜ubiquitination</summary>
+
+> 泛素化修饰是指泛素分子在泛素激活酶E1、结合酶E2和连接酶E3的级联作用下，将其C端甘氨酸残基通过酰胺键共价连接至靶蛋白赖氨酸残基的ε氨基上的翻译后修饰过程。该修饰可发生单泛素化或多泛素化，其中K48连接的多泛素链标记蛋白质，使其被26S蛋白酶体识别并降解。泛素化过程可逆，由去泛素化酶移除泛素修饰，在真核生物蛋白质质量控制中发挥核心作用。
+
+</details>
+
+<details>
+<summary><b>核定位信号序列</b>｜nuclear localization signal</summary>
+
+> 核定位信号序列（nuclear localization signal，NLS）是存在于蛋白质氨基酸序列中的一段特殊信号序列，负责介导相对分子质量大于4×10^4的蛋白质通过核孔复合体主动转运进入细胞核。它是核蛋白完成核输入的必要条件，与出核信号序列共同调控蛋白质的核质穿梭。
+
+</details>
+
+<details>
+<summary><b>核孔复合体</b>｜nuclear pore complex</summary>
+
+> 核孔复合体是镶嵌在真核细胞核膜上的大型蛋白质复合物结构，构成细胞核与细胞质之间物质交换的主要通道。相对分子质量较小的蛋白质可自由通过或被被动扩散转运，而相对分子质量大于4×10⁴的蛋白质及mRNA等大分子则需依赖主动转运，此过程由GTP水解供能并受精细调控。主动转运的蛋白质需在其氨基酸序列上携带核定位信号或出核信号，mRNA则需结合携带跨膜转运信号的蛋白质被受体识别后通过。
+
+</details>
+
+<details>
+<summary><b>核糖体蛋白</b>｜ribosomal protein</summary>
+
+> 核糖体蛋白是构成核糖体活性中心的蛋白质组分，与核糖体RNA共同组装成核糖体的大小亚基。这些蛋白质在核糖体整体结构中协同作用，虽有些单独具有催化潜力，但分离后催化功能消失，仅当整合在核糖体中时才能发挥活性，共同执行蛋白质生物合成。其主要功能是建立和维持核糖体的空间构象，协调各个活性中心的相互关系，其表达还存在与rRNA平衡的自身翻译调控机制。
+
+</details>
+
+<details>
+<summary><b>核糖体结合技术</b>｜ribosome binding technique</summary>
+
+> 核糖体结合技术是一种用于破译遗传密码的实验方法。该技术以人工合成的三核苷酸为模板，在含核糖体和AA-tRNA的体系中促使对应的AA-tRNA与核糖体结合，随后经硝酸纤维素滤膜过滤，结合的大分子复合物被滞留而游离AA-tRNA通过，从而确定三核苷酸模板对应的氨基酸，由此推断密码子。
+
+</details>
+
+<details>
+<summary><b>核糖体循环</b>｜ribosome recycling</summary>
+
+> 核糖体循环是指在蛋白质翻译终止阶段，核糖体大、小亚基发生结合与解离的循环过程。当核糖体A位出现终止密码子时，释放因子识别并结合，促使肽基转移酶水解肽链与tRNA间的键，新生肽链释放，随后核糖体大、小亚基解体，解离的亚基可重新投入新一轮翻译。
+
+</details>
+
+<details>
+<summary><b>流产式起始</b>｜abortive initiation</summary>
+
+> 流产式起始是指在转录起始阶段，RNA聚合酶全酶与启动子结合形成开放复合物后，掺入最初两个核苷三磷酸并合成短RNA转录物，但聚合酶在合成并释放长度仅为2~9个核苷酸的短RNA后即终止，未能过渡到延伸阶段的现象。这一过程中RNA聚合酶始终停留在启动子区，合成的RNA产物长度小于10个核苷酸。
+
+</details>
+
+<details>
+<summary><b>密码的简并性</b>｜codon degeneracy</summary>
+
+> 密码的简并性是指由一种以上密码子编码同一种氨基酸的现象，这些编码相同氨基酸的密码子互称为同义密码子。由于61种编码氨基酸的密码子对应20种氨基酸，除甲硫氨酸和色氨酸仅有一个密码子外，其余氨基酸均有多个密码子，体现了简并性。这种简并性主要由密码子与反密码子配对的摆动假说解释，即第三位碱基配对具有一定的自由度。
+
+</details>
+
+<details>
+<summary><b>起始tRNA</b>｜initiator tRNA</summary>
+
+> 起始tRNA（initiator tRNA）是一类能特异识别mRNA起始密码子的tRNA，负责在多肽合成起始时携带第一个氨基酸进入核糖体。原核生物起始tRNA携带甲酰甲硫氨酸（fMet），真核生物起始tRNA携带甲硫氨酸（Met）。它参与形成核糖体-mRNA-起始tRNA复合物，并占据核糖体P位点，启动翻译。原核生物中Met-tRNA^fMet需先甲酰化才能参与起始。
+
+</details>
+
+<details>
+<summary><b>三联子密码</b>｜triplet code</summary>
+
+> 三联子密码（triplet code）又称密码子（codon），是mRNA上每三个相邻核苷酸组成的一个编码单位，对应一个氨基酸。翻译时从起始密码子AUG开始，沿5'→3'方向连续阅读，直至终止密码子，从而决定多肽链的氨基酸序列。
+
+</details>
+
+<details>
+<summary><b>肽键的生成</b>｜peptide bond formation</summary>
+
+> 肽键的生成是蛋白质合成延伸阶段的核心反应，在核糖体大亚基的肽基转移酶催化下，A位氨酰tRNA的α-氨基亲核攻击P位肽酰tRNA的酯键，通过缩合反应形成肽键，并释放脱酰tRNA。该过程使肽链从P位转移到A位，实现肽链的逐步延伸，每轮循环添加一个氨基酸。
+
+</details>
+
+<details>
+<summary><b>肽链的延伸</b>｜chain elongation</summary>
+
+> 肽链的延伸（chain elongation）是蛋白质翻译过程中，在起始复合物形成后，按照mRNA模板上密码子的顺序，将氨基酸依次通过肽键连接到新生肽链上的阶段。该过程由一系列循环组成，每个循环包括三个主要步骤：氨酰tRNA在延伸因子EF-Tu·GTP协助下进入核糖体A位；在肽基转移酶催化下，A位氨基酸与P位肽链形成肽键；核糖体沿mRNA向3'端移位一个密码子，使肽酰tRNA进入P位，去氨酰tRNA进入E位。原核生物中该过程需要延伸因子EF-Tu、EF-Ts和EF-G参与，并消耗GTP提供能量。
+
+</details>
+
+<details>
+<summary><b>糖基化</b>｜glycosylation</summary>
+
+> 糖基化是蛋白质翻译后的一种修饰方式，指在糖基化酶催化下将糖基连接到蛋白质特定氨基酸残基（如天冬酰胺、丝氨酸、苏氨酸等）上的过程。它是真核细胞蛋白质的特征之一，主要发生在内质网中。几乎所有分泌蛋白和膜蛋白都是糖基化蛋白质，形成的糖蛋白在细胞识别、信号转导等过程中发挥重要作用。
+
+</details>
+
+<details>
+<summary><b>套索</b>｜lariat</summary>
+
+> 套索（lariat）是在RNA剪接过程中形成的环状中间体结构，常见于真核生物前体mRNA剪接和II型内含子自我剪接。剪接时，内含子5'端与内部腺苷酸分支点通过2'-5'磷酸二酯键连接，形成带尾的套索状分子，随后3'剪接位点断裂，套索内含子被释放并被降解。
+
+</details>
+
+<details>
+<summary><b>同工tRNA</b>｜isoaccepting tRNA</summary>
+
+> 同工tRNA是指代表同一种氨基酸的多个tRNA分子。由于一种氨基酸常对应多个密码子，需不同的tRNA识别这些同义密码子，这些tRNA即构成同工tRNA组。同一组内的所有同工tRNA均被相同的氨酰tRNA合成酶识别，它们既具有不同的反密码子以匹配各同义密码子，又共享结构上的共同特征以保证被专一性酶正确装载。
+
+</details>
+
+<details>
+<summary><b>细胞核小核糖核蛋白</b>｜small nuclear ribonucleoprotein</summary>
+
+> 细胞核小核糖核蛋白是由核小RNA（snRNA）与几种蛋白质结合形成的RNA-蛋白质复合物，是剪接体的基本亚单位。它参与mRNA前体的剪接过程，主要功能包括识别5′剪接位点和分支点，并将它们聚集到一起，以及催化或协助催化RNA的剪接和连接反应。
+
+</details>
+
+<details>
+<summary><b>小泛素相关修饰物</b>｜small ubiquitin-related modifier</summary>
+
+> 小泛素相关修饰物（SUMO）是一类结构与泛素相似的类泛素蛋白，参与SUMO化修饰。在ATP供能下，SUMO经活化酶E1激活，再由结合酶E2识别底物保守序列Ψ-K-X-D/E，将其C端甘氨酸通过酰胺键连接到底物赖氨酸残基上，调节蛋白质功能。
+
+</details>
+
+<details>
+<summary><b>延伸tRNA</b>｜elongation tRNA</summary>
+
+> 延伸tRNA是指在蛋白质合成延伸阶段，除起始tRNA外，负责识别mRNA上的非起始密码子并携带相应氨基酸参与肽链延伸的所有tRNA的统称。它们通过其反密码子与mRNA密码子互补配对，在延伸因子EF-Tu等协助下进入核糖体A位，使肽链得以逐步延长。与原核生物起始tRNA携带甲酰甲硫氨酸不同，延伸tRNA携带的氨基酸种类由密码子决定，包括内部AUG编码的甲硫氨酸。
+
+</details>
+
+<details>
+<summary><b>泛素蛋白</b>｜ubiquitin</summary>
+
+> 含有高度保守的 76 个氨基酸的序列, 它以羧基基团连接到目标蛋白质的赖氨酸残基的 \varepsilon 位氨基上, 其主要作用是起始蛋白质的降解。
+
+</details>
+
+<details>
+<summary><b>泛素连接酶</b>｜E3 ubiquitin ligases</summary>
+
+> 又称为 E3 泛素连接酶, 是一个能够将泛素分子连接到目的蛋白质的某个赖氨酸上的酶, 是蛋白质泛素化途径中的第三个酶, 决定靶蛋白的特异性识别, 通过调控调节蛋白的泛素化过程参与细胞内的多种生理过程。
+
+</details>
+
+<details>
+<summary><b>核定位序列</b>｜nuclear localization sequence, NLS</summary>
+
+> 蛋白质中的一个常见的结构域, 通常为一短的氨基酸序列, 它能与入核载体相互作用, 将蛋白质运进细胞核内。
+
+</details>
+
+<details>
+<summary><b>密码的简并</b>｜degeneracy</summary>
+
+> 由一种以上密码子编码同一个氨基酸的现象, 对应于同一氨基酸的密码子称为同义密码子(synonymous codon)。
+
+</details>
+
+<details>
+<summary><b>起始 tRNA</b>｜initiator tRNA</summary>
+
+> 是指能特异地识别 mRNA 模板上起始密码子的 tRNA。
+
+</details>
+
+<details>
+<summary><b>肽基 - tRNA</b>｜peptidy - tRNA</summary>
+
+> 指在蛋白质生物合成过程中, 在肽键合成之后, 连接在新生肽链上的 tRNA 分子。
+
+</details>
+
+<details>
+<summary><b>肽基转移酶</b>｜peptidyltransferase</summary>
+
+> 蛋白质合成过程中的一种酶, 它催化正在延伸的多肽链与下一个氨基酸之间形成肽键。
+
+</details>
+
+<details>
+<summary><b>同工 tRNA</b>｜cognate tRNA</summary>
+
+> 指几个代表相同氨基酸、能够被一个特殊的氨酰 - tRNA 合成酶识别的 tRNA。
+
+</details>
+
+<details>
+<summary><b>遗传密码</b>｜codon</summary>
+
+> mRNA 上每 3 个核苷酸翻译成多肽链上的一个氨基酸, 这 3 个核苷酸就称为一个密码子(三联子密码)。
+
+</details>
+
+<!-- BIO-GLOSSARY:END -->

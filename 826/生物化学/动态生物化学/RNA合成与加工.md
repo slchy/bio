@@ -1100,3 +1100,779 @@
    * 可通过突变形成新基因、结构域或调控元件
    * 某些逆基因仍可表达，称为半加工逆基因
    * 可把RNA阶段产生的信息重新带回DNA，促进基因及结构域的新组合
+
+<!-- BIO-GLOSSARY:START 自动生成,勿手改此区块 -->
+
+## 本章名词
+
+<details>
+<summary><b>外显子</b>｜exon　⭐真题</summary>
+
+> 是真核生物基因的一部分, 它在剪接(Splicing)后仍会被保存下来, 并可在蛋白质生物合成过程中被表达为蛋白质。
+
+</details>
+
+<details>
+<summary><b>U5</b>｜U5 snRNA　⭐真题</summary>
+
+> U5（unique to the 5' end）是逆转录病毒基因组RNA及逆转录转座子长末端重复序列（LTR）中位于5'端的一段独特序列。在逆转录过程中，U5区作为模板被逆转录酶合成互补DNA，随后被RNase H水解。在LTR结构中，U5与U3、R共同构成调控元件，其中U5区含有poly(A)加工信号，参与基因表达调控。
+
+</details>
+
+<details>
+<summary><b>内含子</b>｜intron</summary>
+
+> 是一个基因中非编码 DNA 片段, 它分开
+
+</details>
+
+<details>
+<summary><b>选择性剪接</b>｜alternative splicing</summary>
+
+> 选择性剪接（alternative splicing）是指真核生物同一基因的mRNA前体通过不同的剪接方式，选择性地切除内含子或保留外显子，从而产生多种成熟mRNA的过程。这一过程受剪接激活蛋白和抑制蛋白等反式作用因子的组织特异性调控，如降钙素基因在甲状腺中剪接产生降钙素mRNA，而在脑中切除外显子4后生成降钙素基因相关肽mRNA，最终翻译成不同的激素。选择性剪接是RNA加工中遗传信息加工的重要方式，极大地丰富了基因的表达产物。
+
+</details>
+
+<details>
+<summary><b>再编码</b>｜recoding</summary>
+
+> 再编码（recoding）是指在蛋白质翻译过程中，mRNA上的遗传信息以不同于标准遗传密码规则的方式进行解码，从而改变原有编码含义的现象。主要机制包括：某些变异的校正tRNA通过改变反密码子或个性碱基，在错义或无义突变位点引入氨基酸以恢复蛋白质活性，或通过阅读二联体、四联体密码子消除移码效应；核糖体在特定mRNA位点发生“打嗝”或“跳跃”，改变阅读框架，实现重新解码。
+
+</details>
+
+<details>
+<summary><b>σ因子</b>｜sigma factor</summary>
+
+> σ因子是原核生物RNA聚合酶全酶的一个亚基，负责识别DNA上的启动子序列。它引导全酶与启动子特异性牢固结合，从而启动转录。不同的σ因子识别不同类型的启动子，可调控特定基因的转录，例如大肠杆菌中σ70负责一般基因的转录，而其他σ因子响应应激、热休克等环境信号。
+
+</details>
+
+<details>
+<summary><b>核内不均一RNA</b>｜heterogeneous nuclear RNA</summary>
+
+> 核内不均一RNA（heterogeneous nuclear RNA, hnRNA）是真核生物mRNA的原初转录物在核内加工过程中形成的分子大小不等的中间产物。它在核内迅速合成和降解，半寿期很短，比细胞质mRNA更不稳定，代谢转换率极高。hnRNA分子大小分布极不均一，沉降系数一般在30S~40S，最大可达100S以上；哺乳动物hnRNA平均链长约8000~10000个核苷酸，而细胞质mRNA平均链长约1800~2000个核苷酸。hnRNA需经过剪接等加工过程才能转变为成熟的mRNA。
+
+</details>
+
+<details>
+<summary><b>终止子</b>｜terminator</summary>
+
+> 终止子是提供转录停止信号的DNA序列。在转录过程中，RNA聚合酶识别终止子序列并停止RNA合成，随后在终止因子的辅助下完成转录终止。
+
+</details>
+
+<details>
+<summary><b>长末端重复序列</b>｜LTR</summary>
+
+> 是反转录病毒基因组两端的长末端重复(long terminal repeats), 不编码蛋白质, 但含有启动子、增强子等调控成分, 病毒基因组的 LTR 整合到细胞癌基因邻近处, 使这些细胞癌基因在 LTR 强启动子和增强子的作用下被激活, 将正常细胞转化为肉瘤细胞。
+
+</details>
+
+<details>
+<summary><b>编辑</b>｜editing</summary>
+
+> RNA编辑是指在转录后或转录过程中，通过碱基的插入、删除或替换等方式改变RNA分子编码序列的加工过程，可导致成熟RNA与基因模板序列不完全一致。典型实例包括锥虫线粒体mRNA中尿苷酸的插入以纠正移码突变，以及C→U、A→I等碱基置换。该过程能够消除突变危害、增加遗传信息多样性，并调节基因表达。
+
+</details>
+
+<details>
+<summary><b>复制酶</b>｜replicase</summary>
+
+> 复制酶是由RNA病毒编码或携带的一种RNA依赖的RNA聚合酶，能以病毒RNA为模板催化合成子代RNA。该酶具有极高的模板特异性，只识别病毒自身的RNA，对宿主RNA无作用。在正链RNA病毒（如噬菌体Qβ）中，复制酶在感染后由病毒RNA翻译产生，随后启动复制；其核心催化亚基（如Qβ的β亚基）负责磷酸二酯键的形成，部分辅助亚基则来自宿主细胞。
+
+</details>
+
+<details>
+<summary><b>基本转录因子</b>｜basal transcription factor</summary>
+
+> 基本转录因子是结合在RNA聚合酶Ⅱ启动子的TATA框及转录起点附近的通用转录因子，与RNA聚合酶一起组装形成转录起始复合物，确保转录的基础水平起始。
+
+</details>
+
+<details>
+<summary><b>抗终止因子</b>｜anti-termination factor</summary>
+
+> 能够在特定位点减弱或阻止转录终止的一类蛋白质。它们能与 RNA 聚合酶结合, 帮助 RNA 聚合酶越过具有茎环结构的终止子继续转录目标 RNA。
+
+</details>
+
+<details>
+<summary><b>起始子</b>｜initiator</summary>
+
+> 起始子（initiator）是真核生物RNA聚合酶II启动子中的一类顺式作用控制元件，与基本启动子、上游元件、下游元件和应答元件共同组成类别II启动子的调控序列。它可被相应的转录因子识别并结合，参与转录起始位点的选择和转录活性的调节。
+
+</details>
+
+<details>
+<summary><b>RNA聚合酶</b>｜RNA polymerase</summary>
+
+> RNA聚合酶是以DNA为模板合成RNA的酶，在转录过程中负责催化核苷酸聚合形成与模板互补的RNA链。原核生物RNA聚合酶由核心酶和σ因子组成全酶，全酶通过扩散与DNA疏松结合并搜索启动子，σ因子特异识别启动子序列并促使全酶牢固结合，从而起始转录；不同σ因子识别不同类型启动子以调节基因表达。真核生物RNA聚合酶有多种形式，其中RNA聚合酶II的最大亚基具有C端结构域（CTD），其磷酸化与去磷酸化循环参与转录起始向延伸的转换及终止调控。
+
+</details>
+
+<details>
+<summary><b>上游因子</b>｜upstream factor</summary>
+
+> 上游因子是结合在启动子和增强子上游控制位点的转录调节蛋白质，与基本转录因子和可诱导因子同属真核生物三类转录调节蛋白。它通过识别上游控制元件来参与基因转录调控，有别于结合TATA框和转录起点的基本转录因子以及响应应答元件的可诱导因子。
+
+</details>
+
+<details>
+<summary><b>人类免疫缺陷病毒</b>｜human immunodeficiency virus</summary>
+
+> 人类免疫缺陷病毒（HIV）是一种含有逆转录酶的RNA病毒，属于逆转录病毒。其基因组为单链RNA，感染后经逆转录形成DNA前病毒并整合入宿主细胞染色体，可随细胞增殖而传递。HIV主要攻击免疫系统，导致获得性免疫缺陷综合征（艾滋病）。
+
+</details>
+
+<details>
+<summary><b>延伸因子</b>｜elongation factor</summary>
+
+> 延伸因子是参与翻译延伸阶段、协助多肽链合成的一类蛋白质因子。在原核生物和真核生物中，延伸过程均需三种延伸因子，原核生物的延伸因子为EF-Tu、EF-Ts和EF-G，真核生物则为eEF1A、eEF1B和eEF2。它们主要参与氨酰-tRNA进入核糖体A位点、肽键形成和核糖体移位等关键步骤，如EF-Tu负责将氨酰-tRNA运送至A位点。
+
+</details>
+
+<details>
+<summary><b>乙型肝炎病毒</b>｜Hepatitis B virus</summary>
+
+> 乙型肝炎病毒（Hepatitis B virus）是一种嗜肝DNA病毒，其基因组为不完全双链环状DNA。病毒感染细胞后，基因组DNA缺口被填补形成闭环分子，并转录产生正链RNA中间体。该RNA在核壳内经逆转录合成DNA，最终装配为成熟病毒粒子。
+
+</details>
+
+<details>
+<summary><b>3'剪接位点</b>｜3' splice site</summary>
+
+> 3'剪接位点（3' splice site）是真核生物核mRNA前体（hnRNA）内含子3'末端的保守序列，通常是AG二核苷酸（对应于DNA上的AG）。它是RNA剪接过程中被剪接体识别和切割的关键位点之一，与5'剪接位点的GU共同构成GU-AG规则，保证内含子的精确切除和外显子的连接。
+
+</details>
+
+<details>
+<summary><b>α-鹅膏蕈碱</b>｜α-amanitin</summary>
+
+> α-鹅膏蕈碱是从毒蕈(鬼笔鹅膏)中分离的一种八肽化合物，能特异性地抑制真核生物的RNA聚合酶，从而阻断转录过程；它对细菌RNA聚合酶的抑制作用极为微弱，常作为研究真核转录的工具。
+
+</details>
+
+<details>
+<summary><b>ACA框</b>｜ACA box</summary>
+
+> ACA框(ACA box)是真核生物RNA聚合酶III启动子中的保守序列元件，常见于tRNA和5S rRNA基因的内部控制区，与转录起始复合物的装配和定位相关。
+
+</details>
+
+<details>
+<summary><b>A复合物</b>｜A complex</summary>
+
+> 剪接体组装过程中的早期复合物，由U1 snRNP结合于5'剪接位点、U2 snRNP结合于分支点形成，为后续剪接反应提供结构基础。
+
+</details>
+
+<details>
+<summary><b>B2复合物</b>｜B2 complex</summary>
+
+> 维生素B2（核黄素）在体内与蛋白质结合形成的功能性复合物，主要为黄素辅酶（如FMN、FAD），作为多种氧化还原酶的辅基，参与细胞呼吸和代谢中的电子传递与氧化还原反应。
+
+</details>
+
+<details>
+<summary><b>白血病病毒</b>｜leukemia virus</summary>
+
+> 白血病病毒是一类能引起白血病等肿瘤的逆转录病毒，属于致癌RNA病毒。其病毒颗粒含有逆转录酶，侵染细胞后通过逆转录过程将RNA基因组逆转录为cDNA，并整合到宿主染色体DNA中形成前病毒，从而在宿主细胞中复制并导致细胞恶性转化。
+
+</details>
+
+<details>
+<summary><b>长非编码RNA</b>｜long non-coding RNA</summary>
+
+> 长非编码RNA是一类长度大于200个核苷酸的非编码RNA分子，在遗传信息表达中作为顺式或反式调节因子发挥作用，参与转录水平及转录后水平的调控，是RNA主导表型形成的重要组分。
+
+</details>
+
+<details>
+<summary><b>长分散因子</b>｜long interspersed nuclear element</summary>
+
+> 长分散因子（long interspersed element, LINE）是一类逆转录转座子，属于不具有长末端重复序列（LTR）的类型，其特征是含有3'多聚腺苷酸尾，中心编码区含有与gag和pol类似的序列，5'端常被截短，哺乳动物中的典型代表为L1。
+
+</details>
+
+<details>
+<summary><b>病毒颗粒</b>｜virion</summary>
+
+> 病毒颗粒（virion）是病毒在宿主细胞外完整的、具有感染性的成熟病毒粒子。它由病毒的核酸（DNA或RNA）与蛋白质外壳装配而成，某些病毒颗粒还携带复制所需的酶（如逆转录酶）。作为病毒的传播形式，病毒颗粒可通过表面蛋白与宿主细胞相互作用，介导遗传物质进入细胞并启动感染周期。
+
+</details>
+
+<details>
+<summary><b>苯丁酸氮芥</b>｜chlorambucil</summary>
+
+> 苯丁酸氮芥是一种氮芥类烷化剂，带有活性烷基，可与DNA结合使其烷化，主要发生在鸟嘌呤N7位，导致DNA双链交联或断裂，抑制其模板功能，从而阻断DNA复制和转录，临床用于杀伤肿瘤细胞。
+
+</details>
+
+<details>
+<summary><b>闭合型复合物</b>｜closed complex</summary>
+
+> 闭合型复合物（closed complex）是转录起始阶段，RNA聚合酶在σ因子引导下识别并结合于启动子后形成的初始复合物。此时DNA双链尚未解开，复合物处于非转录活性状态，随后可转变为开放型复合物以启动RNA合成。
+
+</details>
+
+<details>
+<summary><b>编辑酶</b>｜editing enzyme</summary>
+
+> 编辑酶(editing enzyme)是参与RNA编辑的一类酶，能够识别并结合编辑位点附近的一段序列，催化特定核苷酸的化学修饰，如脱去一定位置上胞嘧啶(C)的氨基，从而实现RNA编码序列的改变。
+
+</details>
+
+<details>
+<summary><b>初级转录物</b>｜primary transcript</summary>
+
+> 初级转录物是指由RNA聚合酶以DNA为模板直接转录生成的RNA分子，其序列与模板DNA链互补，基本保留了基因的编码信息。它需经过一系列转录后加工过程（如切割、修剪、附加、修饰等）才能转变为成熟的、有功能的RNA。
+
+</details>
+
+<details>
+<summary><b>C框</b>｜C box</summary>
+
+> C框(C box)是box C/D小核仁RNA(snoRNA)中一段保守的序列元件,通常含有RUGAUGA(R为嘌呤)特征基序。它与D框等元件共同形成特征性茎环结构,为纤维蛋白(fibrillarin)等蛋白质提供结合位点,组装成功能性小核仁核糖核蛋白(snoRNP)。该复合体通过碱基互补配对引导靶RNA特定位点的2'-O-核糖甲基化,参与真核生物rRNA及剪接体snRNA的加工与修饰。
+
+</details>
+
+<details>
+<summary><b>多聚嘌呤片段</b>｜polypurine tract</summary>
+
+> 多聚嘌呤片段是逆转录病毒 RNA 基因组 3' 端附近的一段富含嘌呤碱基的序列，在逆转录过程中作为合成正链 DNA 的引物。
+
+</details>
+
+<details>
+<summary><b>多聚嘌呤序列</b>｜polypurine sequence</summary>
+
+> 多聚嘌呤序列是一段富含嘌呤碱基（腺嘌呤和鸟嘌呤）的核苷酸序列。在逆转录病毒中，其RNA基因组3'端附近存在一段保守的多聚嘌呤片段（poly purine tract，PPT），可抵抗RNase H水解，并在逆转录过程中作为合成正链DNA的引物。
+
+</details>
+
+<details>
+<summary><b>多聚腺苷酸化</b>｜polyadenylation</summary>
+
+> 多聚腺苷酸化是指真核生物mRNA前体加工过程中，在RNA聚合酶Ⅱ转录产物的3′端切断后，添加20～200个腺苷酸残基形成多聚腺苷酸尾部结构的过程。这一尾部结构对mRNA的稳定性和翻译功能至关重要，其缩短是mRNA降解的主要起始步骤，去腺苷酸化可诱发5′端脱帽并启动5′→3′方向的降解。
+
+</details>
+
+<details>
+<summary><b>多聚腺苷酸聚合酶</b>｜poly(A) polymerase</summary>
+
+> 多聚腺苷酸聚合酶是参与真核生物mRNA前体加工的酶，负责在mRNA的3'端催化多聚腺苷酸化反应，添加由20～200个腺苷酸残基组成的多聚腺苷酸尾。该过程发生在RNA聚合酶Ⅱ转录产物的3'端被切断之后，从而形成成熟的mRNA3'端尾部结构。
+
+</details>
+
+<details>
+<summary><b>翻译抑制物</b>｜translation inhibitor</summary>
+
+> 翻译抑制物是一类能够干扰或阻断蛋白质合成过程的物质。它们主要通过与原核或真核核糖体亚基结合发挥作用，例如氨基环醇类抗生素（如链霉素）与30S亚基结合，阻止起始复合物形成并引起密码子错误；四环素族封闭30S亚基A位点，阻断肽链延伸。部分抑制物如春日霉素专一抑制30S起始复合物而不引起错误。真核核糖体虽对某些抑制物敏感，但受限于细胞膜通透性。
+
+</details>
+
+<details>
+<summary><b>反式剪接</b>｜trans-splicing</summary>
+
+> 反式剪接是指将两个不同RNA分子上的外显子连接在一起形成成熟RNA的过程，常见于某些低等真核生物如锥虫，通过将前导序列（spliced leader）添加到mRNA前体上产生成熟mRNA。该过程涉及剪接体或类似机制，不同于常规的顺式剪接，实现了不同转录本间的遗传信息组合，增加了基因表达的多样性。
+
+</details>
+
+<details>
+<summary><b>附加</b>｜addition</summary>
+
+> 附加是指在RNA加工中向RNA分子添加核苷酸的过程，属于切割、修剪、附加、修饰和异构化等一般性加工方式之一，该过程不改变RNA的编码序列。
+
+</details>
+
+<details>
+<summary><b>复合因子</b>｜composite factor</summary>
+
+> 复合因子是由多个不同的蛋白质亚基组装而成的转录调节因子，其活性依赖于亚基间的协同作用，可整合多种信号对基因表达进行精细调控，如由Jun和Fos形成的异二聚体AP1。
+
+</details>
+
+<details>
+<summary><b>GT-AG规则</b>｜GT-AG rule</summary>
+
+> GT-AG规则是指真核生物编码蛋白质的核基因中，内含子的5'端剪接位点均为GT，3'端剪接位点均为AG（对应于RNA为GU-AG）。该规则适用于绝大多数核基因的内含子，但不适用于线粒体、叶绿体基因的内含子以及tRNA、rRNA核基因的内含子。
+
+</details>
+
+<details>
+<summary><b>H框</b>｜H box</summary>
+
+> H框即同源异形框(homeobox)，是一段长约180 bp的DNA序列，编码同源域。同源域是真核生物转录调节因子中常见的DNA结合结构域，可视为一种螺旋-转角-螺旋(HTH)基序，参与调控躯体形态发育。含有同源框的基因称为同源异形基因，在发育过程中依次表达，控制个体发育。
+
+</details>
+
+<details>
+<summary><b>核心启动子</b>｜core promoter</summary>
+
+> 是指保证 RNA 聚合酶 II 转录正常起始所必需的、最少的 DNA 序列, 包括转录起始位点及转录起始位点上游 -25 ~ -30 bp 处的 TATA 盒。
+
+</details>
+
+<details>
+<summary><b>呼肠孤病毒</b>｜Reovirus</summary>
+
+> 呼肠孤病毒（Reovirus）是一类含有双链RNA基因组并携带自身复制酶的RNA病毒。其在复制过程中，依靠病毒自身携带的复制酶以双链RNA为模板进行基因组复制，属于病毒RNA复制方式中的双链RNA病毒类型。
+
+</details>
+
+<details>
+<summary><b>获得性免疫缺损综合征</b>｜acquired immunodeficiency syndrome</summary>
+
+> 获得性免疫缺损综合征（acquired immunodeficiency syndrome, AIDS）是由逆转录病毒（如人免疫缺陷病毒HIV）感染引起的严重免疫缺陷性疾病，其病原体属于逆转录病毒科，病毒基因组为RNA，携带tRNA^Lys作为逆转录引物。
+
+</details>
+
+<details>
+<summary><b>降钙素</b>｜calcitonin</summary>
+
+> 降钙素是一种多肽激素，由降钙素基因经选择性剪接在甲状腺中表达产生。该基因有6个外显子，其原初转录物在甲状腺中通过剪接保留外显子1至4形成降钙素mRNA，而在脑中剪接去除外显子4则产生降钙素基因相关肽。同一基因在不同组织中因剪接调控差异而生成两种不同激素。
+
+</details>
+
+<details>
+<summary><b>降钙素基因相关肽</b>｜calcitonin gene-related peptide</summary>
+
+> 降钙素基因相关肽是由降钙素基因经组织特异性选择性剪接产生的一种肽类激素。在脑中，降钙素基因原初转录物通过剪接去除降钙素外显子（外显子4），生成降钙素基因相关肽的mRNA，从而翻译出该激素。该过程受剪接激活蛋白和抑制蛋白调控，同一基因在甲状腺中则加工为降钙素。降钙素基因相关肽是体内微量存在的调节肽，属于由氨基酸来源的生物活性物质。
+
+</details>
+
+<details>
+<summary><b>开放型</b>｜open type</summary>
+
+> 开放型又称开放复合物，是指在转录起始阶段，RNA聚合酶与启动子结合后，DNA双链局部解开而形成的转录活性复合物。此时闭合型复合物转变为开放型，暴露模板链以便RNA聚合酶催化中心选择与模板碱基配对的核苷酸，起始RNA合成。
+
+</details>
+
+<details>
+<summary><b>开放阅读框架</b>｜open reading frame</summary>
+
+> 开放阅读框架是从起始密码子开始到终止密码子结束的一段连续三联体核苷酸序列，按一定阅读框架不重叠、无标点地读码，可编码完整的多肽链。在重叠基因中，各自的开放阅读框架仍按三联方式连续翻译，是基因编码蛋白质的潜在区域。
+
+</details>
+
+<details>
+<summary><b>狂犬病病毒</b>｜rabies virus</summary>
+
+> 狂犬病病毒是一种含有负链RNA的病毒，其病毒颗粒内携带有复制酶。感染宿主细胞后，病毒借助自身带入的复制酶，以负链RNA为模板合成正链RNA，再以正链RNA为模板合成病毒蛋白质并复制病毒RNA。
+
+</details>
+
+<details>
+<summary><b>框架A</b>｜frame A</summary>
+
+> 框架A是RNA聚合酶Ⅲ启动子中的一种内部控制元件，存在于5S rRNA和tRNA等基因的转录起始区。在5S rRNA基因中，它作为TFⅢA的特异识别位点，启动转录因子级联结合；在tRNA基因中，框架A与框架B共同构成TFⅢC的结合区域，参与募集TFⅢB和RNA聚合酶Ⅲ，从而启动转录。
+
+</details>
+
+<details>
+<summary><b>框架C</b>｜frame C</summary>
+
+> 框架C(frame C)是指信使RNA(mRNA)上以三联体密码子为单位、从第三个核苷酸起始解读的一种阅读框架。由于遗传密码为三联体，每条mRNA序列存在三种可能的阅读框架，框架C是其中之一，在正常翻译中通常不含有用遗传信息。
+
+</details>
+
+<details>
+<summary><b>类别I启动子</b>｜class I promoter</summary>
+
+> 类别I启动子是由RNA聚合酶Ⅰ识别的启动子，负责真核生物中rRNA前体基因（如18S、5.8S和28S rRNA）的转录，其结构通常包含核心启动子和上游调控元件，以确保高效的转录起始。
+
+</details>
+
+<details>
+<summary><b>类别Ⅲ启动子</b>｜class III promoter</summary>
+
+> 类别Ⅲ启动子是真核生物中由RNA聚合酶Ⅲ负责转录的基因的启动子，其典型代表如5S rRNA基因和tRNA基因的启动子。该类启动子的激活依赖于多种转录因子的有序组装：对于5S rRNA基因，先由TFⅢA结合内部框架A，随后招募TFⅢC，进而促使TFⅢB结合至转录起点附近，最终引导RNA聚合酶Ⅲ定位并起始转录；对于tRNA基因，则直接由TFⅢC识别框架B（覆盖框架A和B），再依次招募TFⅢB和RNA聚合酶Ⅲ，从而启动转录。
+
+</details>
+
+<details>
+<summary><b>类似物</b>｜analog</summary>
+
+> 类似物（analog）是指与生物体内正常代谢物或生物大分子结构相似的化合物。它们能够通过竞争性参与代谢途径（如作为抗代谢物抑制关键酶）或掺入生物大分子（如DNA或RNA）中，干扰正常功能，甚至引起突变。
+
+</details>
+
+<details>
+<summary><b>类型I自我剪接</b>｜group I self-splicing</summary>
+
+> 类型I自我剪接是一类由内含子RNA自身催化完成的RNA剪接方式，属于核酶催化反应。其机制通常依赖鸟苷酸等辅因子引发两步转酯反应，切除内含子并连接两侧外显子。此过程无需蛋白质参与，是某些rRNA、tRNA及线粒体基因内含子特有的加工形式。
+
+</details>
+
+<details>
+<summary><b>类型II自我剪接</b>｜group II self-splicing</summary>
+
+> 类型II自我剪接（group II self-splicing）是一种由内含子RNA自身催化完成的剪接过程，不依赖剪接体，主要通过形成套索状中间体切除内含子并连接外显子，常见于线粒体和叶绿体基因。
+
+</details>
+
+<details>
+<summary><b>利福霉素</b>｜rifamycin</summary>
+
+> 利福霉素是1957年分离得到的一族抗生素，主要特异性地抑制细菌RNA聚合酶活性，从而阻断RNA合成，而不作用于DNA。它对革兰氏阳性菌和结核杆菌有强烈抑制作用，对革兰氏阴性菌作用较弱。其半合成衍生物利福平具有广谱抗菌活性，尤其对结核杆菌高效，并可口服。
+
+</details>
+
+<details>
+<summary><b>利福平</b>｜rifampicin</summary>
+
+> 利福平是1962年获得的半合成利福霉素B衍生物，可供口服，具有广谱抗菌作用，对结核杆菌有高效并能杀死麻风杆菌，体外还有抗病毒作用。其作用机制与一般抗生素不同，不作用于DNA，而是特异性地抑制细菌RNA聚合酶的活性，从而阻断RNA合成。
+
+</details>
+
+<details>
+<summary><b>mRNA的互补RNA</b>｜complementary RNA</summary>
+
+> mRNA的互补RNA（complementary RNA）亦称反义RNA，是指具有与特定mRNA互补序列的RNA分子。它可通过碱基配对与mRNA的核糖体结合位点（如SD序列）或起始密码子AUG等区域结合，阻碍翻译起始或延伸，从而抑制蛋白质合成。这种干扰mRNA翻译的互补RNA又称micRNA，是原核生物基因表达翻译水平调节的重要机制之一。
+
+</details>
+
+<details>
+<summary><b>mRNA鸟苷酰转移酶</b>｜mRNA guanylyltransferase</summary>
+
+> mRNA鸟苷酰转移酶是真核生物mRNA加帽过程的关键酶，催化将GMP从GTP转移到mRNA的5'端三磷酸基团上，通过5'-5'三磷酸桥形成帽子结构核心。该反应释放焦磷酸，生成的Cap 0帽子对mRNA稳定性、转运和翻译起始至关重要。
+
+</details>
+
+<details>
+<summary><b>马水疱性口炎病毒</b>｜vesicular stomatitis virus</summary>
+
+> 马水疱性口炎病毒是一种含有负链RNA和自身复制酶的RNA病毒。该病毒侵入宿主细胞后，借助病毒携带的复制酶以负链RNA为模板合成正链RNA，再以正链RNA为模板翻译出病毒蛋白质并复制出子代病毒RNA。
+
+</details>
+
+<details>
+<summary><b>帽结合复合物</b>｜cap-binding complex</summary>
+
+> 帽结合复合物是真核生物mRNA 5'端帽结构上参与翻译起始的蛋白质复合物，主要由帽结合蛋白eIF4E和支架蛋白eIF4G等组成，负责识别并结合m7G帽，招募核糖体以启动翻译。
+
+</details>
+
+<details>
+<summary><b>模板</b>｜template</summary>
+
+> 模板（template）是指在核酸生物合成中，指导新链合成的核酸链，通过碱基互补配对原则决定新链的核苷酸序列。在转录过程中，DNA的一条链作为模板，指导RNA的合成。在DNA复制时，亲代DNA链作为模板合成子代链；逆转录过程中，RNA可作为模板指导DNA合成。
+
+</details>
+
+<details>
+<summary><b>Nus因子</b>｜Nus factor</summary>
+
+> Nus因子是原核生物转录延伸阶段取代σ亚基与RNA聚合酶核心酶结合的一组蛋白质，参与转录延伸和终止调控。其中NusA能识别终止子序列，帮助转录终止。
+
+</details>
+
+<details>
+<summary><b>N端法则</b>｜N-end rule</summary>
+
+> N端法则（N-end rule）是细胞内蛋白质降解的一种规律，指蛋白质的半衰期与其N端氨基酸残基的性质密切相关，特定N端残基（如碱性或大疏水残基）作为降解信号，促进蛋白质通过泛素-蛋白酶体途径快速降解，从而调控蛋白质的代谢稳定性。
+
+</details>
+
+<details>
+<summary><b>内含子剪接增强子</b>｜intronic splicing enhancer</summary>
+
+> 内含子剪接增强子是指位于前体mRNA内含子中的顺式作用元件，能通过与特定剪接因子结合增强附近剪接位点的识别与剪接效率，使含有该元件的内含子优先被切除，从而调控选择性剪接。
+
+</details>
+
+<details>
+<summary><b>内含子结合位点</b>｜intron binding site</summary>
+
+> 内含子结合位点指前体mRNA内含子上被剪接因子识别并结合的保守序列，是RNA剪接的关键顺式作用元件。这些位点主要包括内含子5'端的GU和3'端的AG（对应于DNA的GT-AG规则），以及内部的分支点序列（如酵母中UACUAAC）。剪接因子通过识别这些位点形成剪接复合体，介导内含子的精确切除和外显子的连接。
+
+</details>
+
+<details>
+<summary><b>内含子指导序列</b>｜intron guide sequence</summary>
+
+> 内含子指导序列是指存在于真核生物mRNA前体内含子中、指导RNA剪接的保守序列，主要包括5'剪接位点的GU和3'剪接位点的AG等，它们作为剪接信号被剪接体识别，确保内含子准确切除和外显子连接。
+
+</details>
+
+<details>
+<summary><b>逆转录</b>｜reverse transcription</summary>
+
+> 逆转录是以RNA为模板合成DNA的过程，由逆转录酶催化。该过程是逆转录病毒生活周期中的关键步骤，涉及逆转录酶两次模板转换，以tRNA为引物合成互补DNA链，并水解模板RNA。逆转录产生的cDNA可整合到宿主染色体DNA中成为前病毒，随宿主DNA一起复制和转录。逆转录现象的发现扩充了中心法则，表明遗传信息也可从RNA流向DNA。
+
+</details>
+
+<details>
+<summary><b>逆转录病毒</b>｜retrovirus</summary>
+
+> 逆转录病毒是一类含有逆转录酶的RNA病毒。其基因组为RNA，进入宿主细胞后在自身携带的逆转录酶作用下，将RNA逆转录成cDNA，再整合到宿主染色体DNA中成为前病毒。前病毒可随宿主DNA复制和转录，从而完成病毒复制和基因表达。逆转录病毒的发现扩充了中心法则，表明遗传信息可从RNA流向DNA。
+
+</details>
+
+<details>
+<summary><b>逆转录酶</b>｜reverse transcriptase</summary>
+
+> 逆转录酶是一种以RNA为模板合成互补DNA的酶，最初发现于致癌RNA病毒。它是一种多功能酶，兼具RNA指导的DNA聚合酶活性和RNase H活性，能够水解RNA-DNA杂合分子中的RNA链。该酶是逆转录病毒生活周期的关键因子，负责将病毒基因组RNA逆转录为双链DNA，进而整合为前病毒。此外，端粒酶也属于逆转录酶。
+
+</details>
+
+<details>
+<summary><b>逆转录转座子</b>｜retrotransposon</summary>
+
+> 逆转录转座子是一类自身编码逆转录酶和/或整合酶的非传染性转座因子。按其结构特征可分为LTR型和非LTR型：LTR型具有长末端重复序列，含gag和pol基因但不编码被膜蛋白；非LTR型无LTR，具3' poly(A)尾，中心编码区含gag和pol相似序列。它们以RNA为中间体在基因组内转座，广泛分布于真核生物基因组，可影响基因表达并介导基因重排。
+
+</details>
+
+<details>
+<summary><b>逆转座子</b>｜retrotransposon</summary>
+
+> 逆转座子是一类自身编码逆转录酶和/或整合酶的非传染性转座因子，通过RNA中间体进行转座。按其结构特点可分为两类：一类具有长末端重复序列（LTR），含有gag和pol基因，但不编码被膜蛋白；另一类无LTR，但有3' poly(A)尾，编码区包含gag和pol类似序列。逆转座子广泛分布于真核生物基因组，能够影响基因表达、介导基因重排，并在生物进化中通过促进基因组流动性增加遗传多样性。
+
+</details>
+
+<details>
+<summary><b>Q蛋白</b>｜Q protein</summary>
+
+> Q蛋白是λ噬菌体编码的一种抗终止因子，在基因表达调控中发挥作用。它能够与RNA聚合酶结合，使转录复合物忽略终止信号，从而确保噬菌体晚期基因的连续表达。
+
+</details>
+
+<details>
+<summary><b>起点识别复合物</b>｜origin recognition complex</summary>
+
+> 起点识别复合物（origin recognition complex，ORC）是真核生物中识别并结合于DNA复制起点、启动复制起始的多亚基蛋白复合物。它特异性地与复制起点结合，作为装配前复制复合体（pre-RC）的支架，招募Cdc6、Cdt1及MCM解旋酶等因子，协同完成复制许可与起始。
+
+</details>
+
+<details>
+<summary><b>前病毒</b>｜provirus</summary>
+
+> 前病毒指逆转录病毒的RNA基因组经逆转录形成的双链cDNA中间体，在整合酶作用下插入宿主细胞染色体DNA后的整合态病毒DNA。它能随宿主染色体一起复制并传递给子代细胞，只有整合的前病毒DNA转录产生的mRNA才能翻译出病毒蛋白质。前病毒是逆转录病毒生活周期中的关键阶段，也与病毒致癌作用相关。
+
+</details>
+
+<details>
+<summary><b>前病毒学说</b>｜provirus hypothesis</summary>
+
+> 前病毒学说是Temin于1964年提出的假说，认为致癌RNA病毒的复制需先以病毒RNA为模板合成DNA中间体（前病毒），该DNA可整合到宿主细胞基因组中，并随细胞分裂传至子代，从而导致细胞恶性转化。逆转录酶的发现证实了从前病毒DNA中间体的存在，为该学说提供了关键证据。
+
+</details>
+
+<details>
+<summary><b>禽成髓细胞性白血病病毒</b>｜avian myeloblastosis virus (AMV)</summary>
+
+> 禽成髓细胞性白血病病毒(AMV)是一种能引起禽类白血病的致癌RNA病毒，属于逆转录病毒。它是最早被用于发现逆转录酶的病毒之一，其逆转录酶在重组DNA技术中常用于催化cDNA的合成。AMV逆转录酶是一种多功能酶，具有RNA依赖的DNA聚合酶活性和较强的RNase H活性，由两条多肽链组成，反应最适温度为42℃、最适pH8.3。
+
+</details>
+
+<details>
+<summary><b>rho因子</b>｜rho factor</summary>
+
+> rho因子是原核生物转录终止的一种蛋白质因子，具有ATP依赖的解旋酶活性。它能够识别新生RNA链上的终止信号，并与RNA聚合酶相互作用，迫使转录复合物解离，释放合成的RNA分子。此过程称为依赖rho的转录终止，是原核生物基因表达调控的重要环节。
+
+</details>
+
+<details>
+<summary><b>RNA聚合酶全酶</b>｜RNA polymerase holoenzyme</summary>
+
+> RNA聚合酶全酶是原核生物中由核心酶和σ因子组成的RNA聚合酶完整形式。全酶可通过扩散与DNA疏松可逆结合，并通过DNA置换快速扫描序列，直至识别启动子后转变为牢固结合，并使DNA局部解链。不同σ因子识别不同类型的启动子，从而调控基因的转录起始。
+
+</details>
+
+<details>
+<summary><b>RNA三磷酸酯酶</b>｜RNA triphosphatase</summary>
+
+> RNA三磷酸酯酶（RNA triphosphatase）是一种催化RNA 5'端三磷酸基团水解的磷酸酶，特异性地从新生RNA的5'端切除γ-磷酸，生成5'二磷酸RNA和焦磷酸。该酶在真核生物mRNA前体的5'加帽加工中起关键作用，为后续的鸟苷酸转移酶提供底物，是保证mRNA成熟的重要步骤。
+
+</details>
+
+<details>
+<summary><b>嗜肝DNA病毒</b>｜hepadnavirus</summary>
+
+> 嗜肝DNA病毒是一类基因组为有缺口的环状双链DNA，复制需经过逆转录过程的病毒。其复制时先由DNA聚合酶填补缺口形成闭环DNA，转录产生正链RNA，随后RNA在核壳内逆转录合成DNA，最后装配成成熟病毒粒子。乙型肝炎病毒是该科典型代表。
+
+</details>
+
+<details>
+<summary><b>热休克因子</b>｜heat shock factor</summary>
+
+> 热休克因子(heat shock factor, HSF)是一类在应激条件下调控基因表达的转录激活蛋白。以HSF1为例，在非应激细胞中以单体形式与分子伴侣Hsp90结合而处于失活状态；在热激等应激刺激下，HSF1从Hsp90释放并形成三聚体，结合至DNA热休克应答元件，激活热休克蛋白等基因的转录。其激活过程需lncRNA HSR1与翻译延伸因子eEF1A形成复合物的协助，部分HSF也可经磷酸化激活。
+
+</details>
+
+<details>
+<summary><b>热休克因子HSF</b>｜heat shock factor</summary>
+
+> 热休克因子(HSF)是一类激活蛋白，在非应激细胞中以单体形式与分子伴侣Hsp90结合。受到热或其他应激刺激时，HSF从Hsp90释放，形成三聚体并磷酸化激活，结合DNA启动热休克蛋白等基因的转录。其活化过程需要lncRNA（如HSR1）与翻译延伸因子eEF1A形成复合物协助三聚体组装及DNA结合。
+
+</details>
+
+<details>
+<summary><b>人嗜T淋巴细胞病毒</b>｜human T-lymphotropic virus</summary>
+
+> 人嗜T淋巴细胞病毒（human T-lymphotropic virus, HTLV）是一种逆转录病毒，属于致癌RNA病毒。其基因组为二倍体，由两条相同的正链RNA组成，含有逆转录酶，以宿主tRNAPro作为逆转录引物。病毒进入细胞后通过逆转录过程将RNA基因组转变为cDNA，并整合到宿主染色体上形成前病毒，从而引起细胞转化，与人类T细胞恶性肿瘤的发病相关。
+
+</details>
+
+<details>
+<summary><b>肉瘤病毒</b>｜sarcoma virus</summary>
+
+> 肉瘤病毒是一类能引起动物肉瘤的致癌RNA病毒，属于逆转录病毒，其基因组为RNA，含有逆转录酶，通过逆转录过程进行复制。
+
+</details>
+
+<details>
+<summary><b>TBP相联因子</b>｜TBP-associated factors</summary>
+
+> TBP相联因子是一类与TATA框结合蛋白（TBP）相互作用的蛋白质，它们与TBP共同组成基本转录因子TFIID，参与RNA聚合酶Ⅱ的转录起始过程，协助识别启动子并介导上游调节因子的信号。
+
+</details>
+
+<details>
+<summary><b>通用(转录)因子</b>｜general transcription factor</summary>
+
+> 通用转录因子，又称基本转录因子，是一类与RNA聚合酶Ⅱ启动子核心元件（如TATA框和转录起点）结合的蛋白质；它们与RNA聚合酶一起组装成转录起始复合物，是启动转录所必需的基础因子。
+
+</details>
+
+<details>
+<summary><b>U3</b>｜U3 snoRNA</summary>
+
+> U3 snoRNA是一种box C/D类小核仁RNA，主要定位于核仁，通过与多种蛋白质组装成U3 snoRNP，参与前体rRNA的加工。它作为小亚基加工体的核心组分，在18S rRNA的成熟过程中发挥关键作用。
+
+</details>
+
+<details>
+<summary><b>外显子改组</b>｜exon shuffling</summary>
+
+> 外显子改组是指不同基因的外显子通过重组或剪接等方式重新组合，形成新基因或新蛋白质的进化机制。它利用断裂基因中外显子编码独立结构域的特点，通过外显子复制、易位或重排产生镶嵌蛋白，增加蛋白质多样性。该机制在真核生物进化中起重要作用，有利于快速产生新功能。
+
+</details>
+
+<details>
+<summary><b>外显子剪接增强子</b>｜exonic splicing enhancer</summary>
+
+> 外显子剪接增强子是位于前体mRNA外显子中的顺式作用序列，可被剪接激活蛋白识别并结合，从而促进剪接体对邻近剪接位点的识别与剪接反应，在调控选择性剪接中发挥重要作用。
+
+</details>
+
+<details>
+<summary><b>外显子结合位点</b>｜exon binding site</summary>
+
+> 外显子结合位点是指前体mRNA外显子上被剪接调控蛋白（如剪接激活蛋白）识别结合的特定序列，通过招募剪接体或拮抗剪接抑制因子的作用，促进该外显子在成熟mRNA中的保留，是选择性剪接调控的关键顺式作用元件之一。
+
+</details>
+
+<details>
+<summary><b>修剪</b>｜pruning</summary>
+
+> 修剪是指在RNA前体加工过程中，通过外切核酸酶从RNA分子的末端逐个切除多余核苷酸序列，使前体转变为成熟的RNA分子。它是RNA转录后加工的重要步骤之一，常见于tRNA前体的加工，以确保其具有正确的结构和功能。
+
+</details>
+
+<details>
+<summary><b>移动因子</b>｜mobile element</summary>
+
+> 移动因子是指基因组中能够改变自身位置的一段 DNA 序列，也称转座因子或跳跃基因。它通过转座作用在基因组内移动，包括 DNA 转座子和逆转座子等类型，其中 DNA 转座子直接以 DNA 形式转座，逆转座子则通过 RNA 中间体进行移动。移动因子的转座可导致基因重排、突变及对基因表达的调控，是基因组不稳定的重要因素。
+
+</details>
+
+<details>
+<summary><b>小RNA病毒</b>｜picornavirus</summary>
+
+> 小RNA病毒是一类含有正链单链RNA的病毒，代表种为脊髓灰质炎病毒。其进入宿主细胞后，病毒RNA直接作为mRNA与核糖体结合，翻译出一条约6个蛋白质的多肽，包括复制酶和外壳蛋白等。复制酶随后以正链RNA为模板复制病毒基因组，最终由病毒RNA和蛋白质装配成成熟病毒颗粒。
+
+</details>
+
+<details>
+<summary><b>胭脂碱</b>｜nopaline</summary>
+
+> 胭脂碱(nopaline)是根瘤土壤杆菌(Agrobacterium tumefaciens)感染植物后诱导冠瘿瘤合成与分泌的一种冠瘿碱(opine)，可为细菌提供碳源和氮源营养。其合成与分解代谢的基因位于Ti质粒上，受冠瘿碱代谢相关区段控制。
+
+</details>
+
+<details>
+<summary><b>原初转录物</b>｜primary transcript</summary>
+
+> 原初转录物（primary transcript）是由RNA聚合酶以DNA为模板直接合成的初始RNA产物，其序列与模板DNA基本一致。在真核生物中，mRNA的原初转录物需在核内经过一系列加工（如剪接、末端修饰等）才能成为成熟的、有功能的mRNA，加工中间物称为核内不均一RNA（hnRNA）。原核生物如大肠杆菌的rRNA原初转录物为30S前体，也需经切割加工形成成熟的rRNA。
+
+</details>
+
+<details>
+<summary><b>阅读框架</b>｜reading frame</summary>
+
+> 阅读框架（reading frame）指核糖体以连续的三联体密码子为单位解读mRNA核苷酸序列的方式。一条mRNA通常存在三种可能的阅读框架，但往往只有一种能够编码有功能的蛋白质。移码突变（如插入或缺失非三整数倍碱基）会导致阅读框架改变，从而产生异常的氨基酸序列。
+
+</details>
+
+<details>
+<summary><b>整合酶</b>｜integrase</summary>
+
+> 整合酶是一种由逆转录转座子或逆转录病毒编码的酶，在逆转座或病毒复制过程中起关键作用。它催化逆转录产生的双链cDNA整合到宿主细胞染色体DNA中，从而形成前病毒或实现转座。
+
+</details>
+
+<details>
+<summary><b>整合膜蛋白</b>｜integral membrane protein</summary>
+
+> 整合膜蛋白是镶嵌或跨越生物膜脂双层的蛋白质，其疏水区域与膜脂相互作用，需较强的去垢剂才能从膜上解离。这类蛋白包括跨膜蛋白和脂锚定蛋白，参与运输、信号转导和细胞连接等膜特有的功能。
+
+</details>
+
+<details>
+<summary><b>指导者</b>｜guide</summary>
+
+> 指导者（guide）通常指蛋白质中的导向序列或导肽，即一段负责引导该蛋白质靶向运输至特定细胞器或亚细胞位置的氨基酸序列，如引导线粒体或叶绿体蛋白质定位的肽段。它通过被相应受体识别，确保蛋白质正确定位以发挥功能。
+
+</details>
+
+<details>
+<summary><b>终止因子</b>｜termination factor</summary>
+
+> 终止因子是协助RNA聚合酶识别终止信号、实现转录终止的蛋白质辅助因子。它在转录终止阶段与RNA聚合酶相互作用，帮助识别DNA上的终止子序列，促使RNA聚合酶停止合成并释放转录产物。
+
+</details>
+
+<details>
+<summary><b>转录辅助因子</b>｜transcriptional cofactor</summary>
+
+> 转录辅助因子是指在转录过程中协助RNA聚合酶完成转录延伸、终止等步骤的辅助蛋白质因子，例如延伸因子（如ELL、pTEFb、SII、延伸蛋白）和终止因子。它们通过与RNA聚合酶相互作用，调节转录的进程和终止。
+
+</details>
+
+<details>
+<summary><b>装配RNA</b>｜assembly RNA</summary>
+
+> 装配RNA是一类在核糖核蛋白复合体或病毒颗粒装配过程中起支架或指导作用的RNA分子，通过特定结构或序列促进蛋白质与RNA的正确组装。
+
+</details>
+
+<details>
+<summary><b>转录后加工</b>｜post-transcriptional processing</summary>
+
+> 转录后加工是指RNA聚合酶合成的初级转录物经过一系列变化转变为成熟、有功能RNA的过程，包括链的裂解、末端切除、特殊结构形成、核苷修饰及糖苷键改变等。真核生物mRNA前体的加工主要包括5'端加帽、3'端多聚腺苷酸化和内部甲基化；原核生物rRNA前体需经RNase III等内切核酸酶切割产生成熟的rRNA；少数原核多顺反子mRNA也需切割后才翻译。有时加工还涉及序列的重新编辑，从而改变RNA的编码信息。
+
+</details>
+
+<details>
+<summary><b>转录泡</b>｜transcription bubble</summary>
+
+> 转录泡是指在转录过程中，DNA双链局部解旋形成的一个短暂存在的开放区域，暴露出模板链，供RNA聚合酶合成RNA。该区域通常包含约17 bp的DNA-RNA杂交双链，随着RNA聚合酶的移动而不断推移，是转录延伸阶段的核心结构。
+
+</details>
+
+<details>
+<summary><b>转录因子TFIID</b>｜TFIID</summary>
+
+> TFIID是RNA聚合酶Ⅱ转录起始所必需的一种通用转录因子，它能够识别并结合启动子中的TATA框，与RNA聚合酶Ⅱ及其他转录因子共同装配形成转录起始复合物，从而启动基因转录。
+
+</details>
+
+<details>
+<summary><b>自我剪接</b>｜self-splicing</summary>
+
+> 自我剪接是指某些RNA分子不依赖蛋白质催化剂，仅凭借自身的特定二级结构催化自身内含子切除并连接外显子的过程。这一机制见于I型和Ⅱ型内含子，RNA通过转酯反应完成剪接，如I型内含子剪接中间产物环状内含子可进一步发生自我切割。自我剪接代表了RNA具有催化功能的典型例证。
+
+</details>
+
+<!-- BIO-GLOSSARY:END -->

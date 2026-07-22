@@ -514,3 +514,527 @@
   $$
 
 * 真核生物基因组中含有大量逆转座子
+
+<!-- BIO-GLOSSARY:START 自动生成,勿手改此区块 -->
+
+## 本章名词
+
+<details>
+<summary><b>转化</b>｜transformation　⭐真题</summary>
+
+> 转化(transformation)是指细菌品系由于吸收了外源DNA（转化因子）而发生遗传性状改变的现象。其关键机制是：外源DNA与细胞表面DNA结合蛋白结合后，一条链被核酸酶降解，另一条链被吸收并与感受态特异蛋白结合，最终与染色体DNA发生重组。
+
+</details>
+
+<details>
+<summary><b>反向重复</b>｜inverted repeat　⭐真题</summary>
+
+> 反向重复是指存在于DNA分子上的两个相同或相似的序列，但方向相反。在插入序列和转座子两端常见反向重复，长度通常为15~25 bp，是转座酶识别和结合的关键位点。此外，细菌特异位点重组中H片段倒位也依赖于两端的反向重复序列（hix位点），通过重组实现取向转换。
+
+</details>
+
+<details>
+<summary><b>非同源末端连接</b>｜non-homologous end joining</summary>
+
+> 非同源末端连接（non-homologous end joining，NHEJ）是一种双链DNA断裂修复机制，不依赖同源序列，直接将断裂末端重新连接。此过程由Ku蛋白识别断裂末端，招募DNA依赖性蛋白激酶催化亚基（DNA-PKcs）等因子，经末端加工后由连接酶IV等完成连接。NHEJ在免疫球蛋白和T细胞受体基因重排中发挥关键作用，但也可能引入插入或缺失突变。
+
+</details>
+
+<details>
+<summary><b>重排</b>｜rearrangement</summary>
+
+> 重排是指DNA分子内或分子间发生的遗传信息重新组合，也称基因重排。它是调节基因表达的一种方式，可通过特定重组酶作用于特异位点，使DNA片段发生倒位、切除或连接，从而改变基因表达状态或产生新基因组合。例如，免疫球蛋白基因通过V(D)J重排产生抗体多样性，细菌鞭毛相转变中H片段倒位导致不同鞭毛蛋白表达。
+
+</details>
+
+<details>
+<summary><b>感受态细胞</b>｜competent cell</summary>
+
+> 感受态细胞是指经过物理或化学方法处理、能够高效吸收外源DNA的细菌细胞。常用的制备方法包括氯化钙法，低温下Ca²⁺使细胞膜变脆，经热激产生裂隙而导入DNA；也可采用电穿孔法。感受态细胞是重组DNA技术中转化实验的关键宿主，通常要求无限制酶和重组能力，以确保外源DNA的稳定导入与表达。
+
+</details>
+
+<details>
+<summary><b>基因间隔区</b>｜intergenic region</summary>
+
+> 基因间隔区是基因组中位于基因之间的非编码DNA序列，可能含有启动子、增强子等调控元件以及转座子等重复序列，在基因组结构和基因表达调控中发挥重要作用。
+
+</details>
+
+<details>
+<summary><b>基因重排</b>｜gene rearrangement</summary>
+
+> 基因重排是指DNA分子内或分子间发生遗传信息重新组合的过程，又称为遗传重组。它是一种基因表达调控方式，通过DNA片段的重排可使细胞由表达一种基因转为表达另一种基因。典型例子包括免疫球蛋白基因的V(D)J重排以产生抗体多样性，以及细菌鞭毛相转变中H片段倒位调节鞭毛抗原的表达。
+
+</details>
+
+<details>
+<summary><b>居间序列</b>｜intervening sequence</summary>
+
+> 居间序列是真核生物基因内部的非编码插入序列，需在转录后通过RNA剪接被切除。
+
+</details>
+
+<details>
+<summary><b>同源重组</b>｜homologous recombination</summary>
+
+> 同源重组是指发生在两个DNA分子同源序列之间的遗传重组，广泛存在于各类生物，真核生物中多发生于减数分裂时同源染色体的交换。其关键机制涉及DNA链的断裂和再连接：同源序列间发生单链交换，形成Holliday中间体，随后通过分支移动和拆分完成重组。在大肠杆菌中，RecA蛋白与单链DNA结合形成螺旋纤丝，促进同源配对和单链同化，是重组过程的核心。同源重组能增加群体遗传多样性、使有利突变与不利突变分离，在DNA修复和基因转移中也发挥重要作用。
+
+</details>
+
+<details>
+<summary><b>转座子</b>｜transposon, Tn</summary>
+
+> 能够在没有序列相关性的情况下独立插入基因组新位点上的一段 DNA 序列, 是存在于染色体 DNA 上可自主复制和位移的基本单位。参与转座子易位及 DNA 链整合的酶称为转座酶。
+
+</details>
+
+<details>
+<summary><b>B1复合物</b>｜B1 complex</summary>
+
+> B1复合物通常指维生素B1（硫胺素）及其辅酶形式硫胺素焦磷酸（TPP）所构成的辅因子系统。硫胺素焦磷酸是α-酮酸脱氢酶复合体（如丙酮酸脱氢酶）和转酮醇酶的辅酶，在碳水化合物代谢及能量产生中发挥关键作用。它参与醛基的转移反应，是维持正常神经功能和糖代谢所必需的。水溶性，缺乏可导致脚气病等疾病。
+
+</details>
+
+<details>
+<summary><b>靶序列间</b>｜intertarget sequence</summary>
+
+> 在转座因子（如插入序列）转座过程中，宿主靶部位双链被交错切开，转座子插入后经修复在其两侧形成短的正向重复。靶序列间即指两侧正向重复之间的DNA区段，包括转座子序列及其末端反向重复等结构。
+
+</details>
+
+<details>
+<summary><b>斑点系统</b>｜dot blot</summary>
+
+> 斑点系统是一种将待测样品（如DNA、RNA或蛋白质）直接点在固相支持膜上，无需电泳分离的快速检测技术。通过特异性探针杂交或抗体结合，可定性或半定量分析目标分子的存在与否。该方法操作简便，灵敏度较高，常用于批量样品的初步筛查。
+
+</details>
+
+<details>
+<summary><b>插入型</b>｜insertion type</summary>
+
+> 插入型指在重组DNA技术中，通过将外源DNA片段插入载体或基因组特定位置而产生效应的一种类型。此过程可导致基因插入失活，如外源DNA插入抗性基因编码序列使其失活；也可嵌入染料等扁平分子插入DNA碱基对间，造成移码突变。这类插入通常具有序列特异性或随机性，并可能导致宿主表型改变。
+
+</details>
+
+<details>
+<summary><b>插入序列</b>｜insertional sequence, IS</summary>
+
+> 是最简单的转座子, 是细菌的一小段可转座元件, 它不含有任何宿主基因而常被称为插入序列, 它们是细菌染色体或质粒 DNA 的正常组成部分。
+
+</details>
+
+<details>
+<summary><b>保留性转座</b>｜conservative transposition</summary>
+
+> 保留性转座，又称非复制转座，是指转座子从原来位置上切除下来，转入新的位置，其两条链均被保留的转座方式。在转座过程中，转座子整体移动到靶位点，不进行复制，因此供体部位失去转座子，受体部位获得转座子。
+
+</details>
+
+<details>
+<summary><b>鞭毛相转变</b>｜flagellar phase variation</summary>
+
+> 鞭毛相转变是沙门氏菌等细菌中，由DNA片段倒位介导的两种不同H抗原（如H1和H2）交替表达的现象。其分子基础为一段995 bp的H片段，两端为反向重复的14 bp hix位点，通过Hin重组酶和辅助因子Fis的催化发生倒位。倒位改变启动子方向，从而开关H2和rH1基因的转录：H2表达时伴随H1阻遏蛋白rH1的产生，抑制H1表达；倒位后则H2和rH1关闭，H1表达。这一可逆的遗传重组使细菌群体中少数个体呈现另一抗原相，有利于逃避宿主免疫。
+
+</details>
+
+<details>
+<summary><b>多样性片段</b>｜diversity segment</summary>
+
+> 多样性片段（diversity segment）是免疫球蛋白重链基因可变区中的一段基因片段，简称D片段。在B细胞分化过程中，D片段先与J片段连接，随后V片段添加到D-J上，形成V-D-J复合体，完成重链基因的重排。D片段的存在增加了抗体多样性的潜力，其重排过程需要RAG1/2重组酶识别重组信号序列。
+
+</details>
+
+<details>
+<summary><b>Fis</b>｜Fis</summary>
+
+> Fis（factor for inversion stimulation）是鼠伤寒沙门氏菌鞭毛相转变中位点特异性倒位的辅助因子，能促使DNA弯曲，将反向的hix重组位点拉近，辅助倒位酶Hin催化H片段的倒位，从而调控H2和rH1基因的表达。
+
+</details>
+
+<details>
+<summary><b>感受态因子</b>｜competence factor</summary>
+
+> 感受态因子是细菌在特定生理状态下产生并分泌到胞外的一类信号分子（多为小肽），能够以群体感应方式诱导同种细菌建立感受态，从而具备摄取外源DNA的能力。
+
+</details>
+
+<details>
+<summary><b>反向生物学</b>｜reverse biology</summary>
+
+> 反向生物学是从基因或蛋白质序列出发，利用分子生物学手段反向揭示其生物学功能的研究策略，与从表型到基因的经典正向遗传学途径相反，常通过基因敲除、过表达、定点突变等方法解析功能。
+
+</details>
+
+<details>
+<summary><b>高度重复序列</b>｜highly repetitive sequence</summary>
+
+> 高度重复序列是真核生物基因组中拷贝数极高（通常可达10^6以上）的DNA序列，其重复单位一般很短（几bp到几百bp），如卫星DNA，多分布于着丝粒等异染色质区域，通常不编码蛋白质，功能可能与染色体结构维持和分离有关。
+
+</details>
+
+<details>
+<summary><b>高频率的重组</b>｜high frequency of recombination</summary>
+
+> 高频率的重组（high frequency of recombination）是指细菌接合过程中供体菌将染色体基因高频率转移给受体菌的现象。该现象源于F质粒整合到宿主染色体上，形成高频重组（Hfr）菌株。Hfr菌株在接合时，染色体DNA从整合部位开始向受体转移，能高效传递遗传标记，导致重组频率显著升高。该机制是细菌遗传物质水平转移的重要方式，常用于基因定位研究。
+
+</details>
+
+<details>
+<summary><b>附着位点</b>｜attachment site</summary>
+
+> 附着位点是指核酸或蛋白质分子上供其他分子（如蛋白质、核酸）特异性识别与结合的特定区域，参与基因重组、转录调控或蛋白质合成等过程。
+
+</details>
+
+<details>
+<summary><b>复制转座</b>｜replicative transposition</summary>
+
+> 复制转座是转座过程中通过复制实现转座子拷贝的一种方式。转座酶识别转座子末端反向重复序列并切割，与靶位点连接形成Shapiro中间体后，以转座子为模板进行复制，使原给体位点和靶位点各获得一个转座子，其中每条转座子的一条链为原有链，另一条为新合成链。这一过程导致给体与受体分子连接成共整合体，随后必须通过重组将二者拆开。
+
+</details>
+
+<details>
+<summary><b>非复制转座</b>｜non-replicative transposition</summary>
+
+> 非复制转座是转座的一种类型，转座子从原来位置上完整切除下来，再转入新的靶位置，其原有的两条链均被保留，不发生复制。该过程也称为保留性转座。
+
+</details>
+
+<details>
+<summary><b>共整合体</b>｜cointegrate</summary>
+
+> 共整合体是复制转座过程中形成的中间产物。复制转座使转座子通过复制同时保留在原位点并插入新靶位点，导致供体DNA与受体DNA连接成一个大的共整合分子。该结构含有两个拷贝的转座子，分别位于连接处。共整合体形成后需经重组过程将其拆开为独立的供体和受体分子。
+
+</details>
+
+<details>
+<summary><b>非自主因子</b>｜nonautonomous element</summary>
+
+> 非自主因子是基因组中一类自身不编码转座所需酶（如转座酶）的转座元件，其转座依赖于同一家族中自主因子编码的转座酶反式作用。非自主因子通常由自主因子通过缺失或突变衍生而来，保留了转座所必需的末端反向重复序列等顺式作用元件。在转座过程中，它们与自主因子利用相同的转座酶和机制，因此能引起类似的遗传效应，但因其缺乏自主性，仅在有自主因子存在时才能发生转座。
+
+</details>
+
+<details>
+<summary><b>分支移动</b>｜branch migration</summary>
+
+> 分支移动是DNA同源重组过程中，Holliday连接体的分支点沿双链DNA逐步迁移的过程。Rec A蛋白通过促进单链同化可驱动分支移动，而Ruv B解旋酶在Ruv A辅助下直接推动此过程。
+
+</details>
+
+<details>
+<summary><b>Holliday联结体</b>｜Holliday junction</summary>
+
+> Holliday联结体是同源重组过程中两个DNA分子间形成的四链交叉中间结构。它由RecA蛋白介导的单链交换和配对产生，可发生分支迁移以扩展异源双链区，最终由RuvC等解离酶切割分离，完成链交换。
+
+</details>
+
+<details>
+<summary><b>H片段</b>｜H fragment</summary>
+
+> H片段是鼠伤寒沙门氏杆菌中一段长度为995 bp的DNA元件，其两端各有一个14 bp的反向重复特异重组位点hix。H片段上含有两个启动子，其中一个驱动编码倒位酶Hin的基因表达，另一个在特定取向时驱动H2鞭毛蛋白基因和阻遏蛋白rH1基因表达；该片段通过Hin介导的位点特异性倒位，切换启动子方向，从而调控H1和H2鞭毛抗原的交替表达，产生鞭毛相转变。
+
+</details>
+
+<details>
+<summary><b>恒定片段</b>｜constant fragment</summary>
+
+> 恒定片段是免疫球蛋白基因中编码抗体恒定区的DNA序列，在B细胞发育中通过基因重排与可变区基因片段连接，形成完整的功能性抗体基因。恒定片段决定抗体的类和型，并在抗原刺激后可发生类别转换，改变效应功能而不影响抗原特异性。
+
+</details>
+
+<details>
+<summary><b>回交</b>｜backcross</summary>
+
+> 回交是指将杂交后代与亲本之一再次进行杂交的育种方法，常用于将特定基因导入优良品种或加强某一亲本的遗传性状，通过连续回交可提高后代与轮回亲本的遗传相似度。
+
+</details>
+
+<details>
+<summary><b>交配型转换基因</b>｜mating type switching gene</summary>
+
+> 交配型转换基因是指参与酵母等真菌中交配型转换过程的基因，其编码产物能够启动特定基因座的重组事件，从而实现交配型的改变。此类基因通过调控染色体的局部重组来切换细胞的接合型，是真菌有性生殖的重要组成。
+
+</details>
+
+<details>
+<summary><b>接合</b>｜conjugation</summary>
+
+> 接合是指细菌细胞相互接触时遗传信息从一个细胞（供体）转移到另一个细胞（受体）的过程。该过程由接合质粒（如F因子）介导，质粒上的tra基因编码性菌毛及转移相关蛋白，使供体与受体细胞形成接触。接合时，F因子在转移起点(oriT)处切开单链，其5′端前导链引导染色体转移，转移区基因最后进入受体，但常因染色体较长而中途断裂。
+
+</details>
+
+<details>
+<summary><b>接合质粒</b>｜conjugative plasmid</summary>
+
+> 接合质粒是能够通过接合作用介导细菌间DNA转移的质粒，与接合功能相关的蛋白质均由该类质粒所编码。典型的接合质粒如大肠杆菌F质粒，为双链闭环大质粒，长约100 kb，含有复制起点oriV和约33 kb的转移区（tra基因），该区编码性菌毛、稳定接合配对及转移起始等功能约40个基因。F质粒可在宿主细胞内游离存在或整合到染色体上，属于附加体，通过转移起点oriT起始单链转移。
+
+</details>
+
+<details>
+<summary><b>接头</b>｜adapter</summary>
+
+> 接头是重组DNA技术中使用的一段短双链寡核苷酸，通常含有特定限制酶识别位点或便于连接的黏性末端，用于将外源DNA片段与载体连接，或在不同DNA分子间实现定向重组。
+
+</details>
+
+<details>
+<summary><b>结合</b>｜binding</summary>
+
+> 结合是指分子间通过非共价相互作用（如氢键、范德华力等）形成复合物的可逆过程，具有特异性，是生物大分子识别和功能执行的基础。
+
+</details>
+
+<details>
+<summary><b>解离酶</b>｜resolvase</summary>
+
+> 解离酶是在复制转座过程中，将共整合体通过位点特异性重组拆开，使给体与受体分子分离的酶。它特异识别转座子内部的解离位点，催化重组反应，将转座子复制后形成的两个拷贝分配到两个DNA分子中，从而完成复制转座的最后步骤。
+
+</details>
+
+<details>
+<summary><b>可变片段</b>｜variable fragment</summary>
+
+> 可变片段即免疫球蛋白基因中的V片段，是编码抗体可变区的基因片段。在抗体基因重排中，重链的V片段与D、J片段连接形成V-D-J复合体，轻链的V片段与J片段连接形成V-J复合体，该过程由RAG1/RAG2重组酶识别特定信号序列介导，从而产生抗体多样性。
+
+</details>
+
+<details>
+<summary><b>联会复合物</b>｜synaptonemal complex</summary>
+
+> 联会复合物（synapsis complex）又称转座体，是转座过程中由转座酶识别转座子末端反向重复序列并切割后，将转座子两末端连接在一起形成的复合物，是转座重组的关键中间体。
+
+</details>
+
+<details>
+<summary><b>流感嗜血杆菌</b>｜Haemophilus influenzae</summary>
+
+> 流感嗜血杆菌是一种需氧或兼性厌氧的革兰氏阴性球杆菌，最初在流行性感冒流行时被误认为是其病原体，实际上可引起呼吸道感染、脑膜炎等多种疾病。
+
+</details>
+
+<details>
+<summary><b>P因子</b>｜P element</summary>
+
+> P因子（P element）是果蝇中的一类转座子，属于真核生物转座因子。P因子可分为自主因子和非自主因子，自主因子编码转座酶，能够自主转座；非自主因子缺失转座酶编码区，依赖自主因子提供的转座酶进行转座。P因子在果蝇杂种不育现象中起关键作用，其转座活性可导致基因组不稳定，进而影响杂交后代的生殖力，与物种形成相关。
+
+</details>
+
+<details>
+<summary><b>片段交换</b>｜fragment exchange</summary>
+
+> 片段交换是指在DNA重组过程中，两个同源DNA分子之间发生对应片段的相互交换，导致遗传信息的重新组合，是减数分裂时同源染色体交叉互换的分子基础。
+
+</details>
+
+<details>
+<summary><b>片段重组体</b>｜fragment recombinant</summary>
+
+> 片段重组体是指通过DNA片段的特异性重组（如倒位）形成的重组DNA分子。这种重组常发生于特定识别位点之间，导致片段方向或连接方式改变，从而调控基因表达，例如鼠伤寒沙门氏杆菌中H片段在hix位点间的倒位可形成鞭毛相转变重组体。
+
+</details>
+
+<details>
+<summary><b>宿主防护DNA系统</b>｜host restriction-modification system</summary>
+
+> 宿主防护DNA系统(host restriction-modification system)是细菌的限制修饰系统,由hsd基因座编码,包含限制酶(R)、修饰甲基化酶(M)和特异性亚基(S)。该系统通过甲基化修饰自身DNA使其免遭切割,同时识别并降解外源未修饰DNA,构成细菌防御机制。在基因工程中,为避免外源DNA被降解,要求宿主细胞该系统缺陷,即表型为S⁻R⁻M⁻。
+
+</details>
+
+<details>
+<summary><b>溶原途径</b>｜lysogenic pathway</summary>
+
+> 溶原途径是温和噬菌体感染宿主后，将其DNA整合到宿主染色体中，以原噬菌体形式随宿主DNA复制而稳定遗传，不引发宿主裂解的感染方式。该途径的关键机制是位点特异性重组：整合酶识别噬菌体DNA上的attP位点和宿主DNA上的attB位点，交错切割并交互连接，实现定点整合，且该过程不依赖ATP。
+
+</details>
+
+<details>
+<summary><b>融合遗传</b>｜blending inheritance</summary>
+
+> 融合遗传是一种早期的遗传假说，主张亲本双方的性状在子代中如同液体混合一般融合，导致子代表现为介于双亲的中间类型，且这种融合后的性状可稳定遗传。该假说无法解释性状的分离和独立分配现象，后被孟德尔的颗粒遗传理论所取代。
+
+</details>
+
+<details>
+<summary><b>特异位点重组</b>｜site-specific recombination</summary>
+
+> 特异位点重组是发生在特定短DNA序列（特异重组位点）之间的遗传重组，由特异重组酶催化识别并切割重组位点，通过DNA链的断裂与再连接完成片段倒位、整合或切除等过程。例如，鼠伤寒沙门氏杆菌鞭毛相转变中，倒位酶Hin结合于14 bp的hix反向重复序列，在辅助因子Fis协助下使H片段倒位，从而调控H1和H2鞭毛蛋白表达；免疫球蛋白基因V(D)J重排也属此类重组，由RAG1/2蛋白识别信号序列介导连接。
+
+</details>
+
+<details>
+<summary><b>特异重组位点</b>｜specific recombination site</summary>
+
+> 特异重组位点是位点特异性重组中重组酶识别并结合的特定DNA序列，通常为反向重复序列。在鼠伤寒沙门氏杆菌鞭毛相转变中，H片段两端各有一段14 bp的hix反向重复序列，作为特异重组位点被倒位酶Hin识别，并在辅助因子Fis的协助下介导H片段倒位。在免疫球蛋白基因重排中，重组信号序列包含七核苷酸、九核苷酸及12/23 bp间隔，也是特异重组位点，被RAG1/2复合物识别，启动V(D)J重组。
+
+</details>
+
+<details>
+<summary><b>体细胞重排</b>｜somatic rearrangement</summary>
+
+> 体细胞重排是指在淋巴细胞发育过程中发生的基因重排事件，主要包括免疫球蛋白基因和T细胞受体基因的重排。通过抗体重链和轻链基因的重排以及后续的重链恒定区类型转换，产生多样性的抗体；T细胞受体基因也经历类似重排。这种重排是抗体和T细胞受体多样性形成的关键机制。
+
+</details>
+
+<details>
+<summary><b>同化</b>｜assimilation</summary>
+
+> 同化(assimilation)指生物体将从外界获取的简单小分子物质合成为自身复杂组成成分或大分子的过程，是生物合成代谢的重要方面，如氨的同化（氨通过谷氨酸和谷氨酰胺掺入生物分子）和碳同化（CO₂固定为有机物）。在DNA重组中，同化特指单链DNA与同源双链DNA发生链交换而整合，例如RecA蛋白促进的单链同化，可导致Holliday中间体形成和分支迁移，对遗传重组至关重要。
+
+</details>
+
+<details>
+<summary><b>同型性排斥</b>｜homotypic exclusion</summary>
+
+> 同型性排斥是指在鼠伤寒沙门氏杆菌中，通过H片段DNA位点特异性倒位，使H1和H2鞭毛抗原基因交替表达，确保细菌每次只呈现一种抗原类型，排斥另一种同型抗原的表达。当H2基因与rH1基因共表达时，rH1产物阻遏H1基因转录，从而实现两种抗原相的相互排斥。
+
+</details>
+
+<details>
+<summary><b>同源定向修复</b>｜homology directed repair</summary>
+
+> 同源定向修复是指以同源DNA序列为模板，对DNA双链断裂或损伤进行精确修复的过程。当DNA出现双链断裂时，断裂末端可与同源序列配对，通过链交换和再合成，从同源模板复制正确序列以填补缺口，从而恢复完整的遗传信息。这一机制依赖同源重组相关酶系，能确保基因组稳定性。
+
+</details>
+
+<details>
+<summary><b>同源体</b>｜homolog</summary>
+
+> 同源体（homolog）通常指同源染色体，即在减数分裂时能进行配对和交换的染色体，它们形态、大小和基因序列大致相同，一条来自父方，一条来自母方。
+
+</details>
+
+<details>
+<summary><b>V-D-J连接</b>｜V(D)J joining</summary>
+
+> V-D-J连接是免疫球蛋白重链基因重排过程中，V、D、J基因片段经特异性重组连接形成完整可变区外显子的过程。该过程由RAG1/RAG2重组酶复合物识别并切割重组信号序列，先进行D-J连接，再将V片段连至D-J上，形成V-D-J复合体。
+
+</details>
+
+<details>
+<summary><b>V-J复合体</b>｜V-J complex</summary>
+
+> V-J复合体（V-J complex）是在免疫球蛋白轻链基因重排过程中，由可变区（V）基因片段与连接区（J）基因片段通过重组连接形成的DNA复合体，是轻链基因重排的关键中间产物。
+
+</details>
+
+<details>
+<summary><b>硒代半胱氨酸插入序列</b>｜selenocysteine insertion sequence</summary>
+
+> 硒代半胱氨酸插入序列（SECIS）是编码硒蛋白的mRNA中的一段特殊二级结构元件，通常形成茎环结构。它帮助携带硒代半胱氨酸的tRNA识别mRNA中的UGA密码子，使得该密码子不被读作终止信号，而是编码硒代半胱氨酸掺入蛋白质。
+
+</details>
+
+<details>
+<summary><b>细胞融合</b>｜cell fusion</summary>
+
+> 细胞融合是指通过细胞质膜融合使两个细胞合并为一个细胞的过程，可导致遗传物质的转移和重组。在细菌中，自然条件下某些种属可发生由细胞质膜融合介导的基因转移；实验室则可通过去除细胞壁制备原生质体并促使其融合，从而使不同菌株的DNA发生广泛重组。
+
+</details>
+
+<details>
+<summary><b>一般性重组</b>｜general recombination</summary>
+
+> 一般性重组（general recombination）是指DNA分子内或分子间发生遗传信息的重新组合过程，广泛存在于各类生物。在真核生物中，该过程主要发生在减数分裂时同源染色体之间的交换，而细菌等单倍体生物可通过多种形式进行重组。一般性重组对于增加群体遗传多样性和优化遗传信息组合具有关键作用，是生物进化的重要基础。
+
+</details>
+
+<details>
+<summary><b>遗传重组</b>｜genetic recombination</summary>
+
+> 遗传重组是DNA分子内或分子间发生遗传信息的重新组合,产物称为重组体DNA。该过程广泛存在于各类生物,真核生物中多发生于减数分裂时同源染色体之间的交换,而细菌和噬菌体等单倍体基因组可通过多种形式进行重组。遗传重组在生物进化中起关键作用,能通过产生可遗传变异、增加群体遗传多样性、优化遗传信息组合等方式推动进化。
+
+</details>
+
+<details>
+<summary><b>杂种不育</b>｜hybrid sterility</summary>
+
+> 杂种不育是指不同物种或特定种群间杂交产生的子代不能生育的现象，属于生殖隔离的一种形式。其机制常涉及亲本基因组的不兼容，例如转座子（如果蝇的P因子）在杂种中异常激活导致生殖细胞发育缺陷。
+
+</details>
+
+<details>
+<summary><b>整合宿主因子</b>｜integration host factor</summary>
+
+> 整合宿主因子（integration host factor，IHF）是细菌中的一种序列特异性DNA结合蛋白，能弯曲DNA并参与多种细胞过程，如λ噬菌体DNA的整合与切离、基因表达调控、DNA复制和重组等。
+
+</details>
+
+<details>
+<summary><b>正向重复</b>｜direct repeat</summary>
+
+> 正向重复（direct repeat）是转座因子（如插入序列）插入宿主DNA后，在插入位点两侧形成的短的同向重复序列。它由转座过程中转座酶交错切开靶序列双链，经修复后产生，其长度固定（常见为5 bp或9 bp），可用于鉴定插入序列的边界。
+
+</details>
+
+<details>
+<summary><b>中度重复序列</b>｜moderately repetitive sequence</summary>
+
+> 中度重复序列（moderately repetitive sequence）是真核生物基因组中重复频率介于高度重复序列和单一序列之间的一类 DNA 序列，拷贝数通常在数十至数千个。它们包括 rRNA 基因、tRNA 基因等功能基因家族，以及散布重复序列如 Alu 家族和长散在元件（LINE）等。这类序列往往源于转座子的扩增，在基因组结构、进化及基因表达调控中发挥重要作用。
+
+</details>
+
+<details>
+<summary><b>转导</b>｜transduction</summary>
+
+> 转导是以噬菌体为载体将细菌DNA从供体转移至受体的基因转移方式，包括普遍性转导和局限性转导两种类型。普遍性转导中，宿主基因组任意位置的DNA片段被错误包装入成熟噬菌体颗粒，进而注入受体菌；局限性转导中，温和噬菌体切离时将整合位点附近的宿主DNA切下并取代部分病毒DNA，随噬菌体颗粒转移。
+
+</details>
+
+<details>
+<summary><b>转化子</b>｜transformant</summary>
+
+> 转化子（transformant）是指通过转化过程摄取了外源DNA（如质粒载体）并表达其遗传性状的宿主细胞。由于转化效率通常较低，需利用载体上的选择标记基因（如抗生素抗性基因）在相应选择培养基中筛选获得转化子；未摄入外源DNA的细胞则无法生长。转化子的获得是外源基因导入原核细胞并进行重组克隆筛选的关键步骤。
+
+</details>
+
+<details>
+<summary><b>转换器</b>｜transducer</summary>
+
+> 转换器（transducer）泛指在生物体系中能将一种形式的能量或信号转换为另一种形式的分子、复合体或亚细胞结构，在信号转导中通常指介导受体激活与下游效应器之间信号传递的关键偶联蛋白。
+
+</details>
+
+<details>
+<summary><b>转换区</b>｜switch region</summary>
+
+> 转换区是免疫球蛋白重链基因恒定区（C片段）5'端的一段DNA序列，含有成串的重复序列。在B细胞受抗原刺激后发生类别转换时，转换区介导Sμ与其他转换区（如Sγ、Sα等）之间的特异性重组，使V(D)J可变区与不同恒定区连接，从而改变抗体重链的类（如由IgM转变为IgG），但保持抗原特异性不变。
+
+</details>
+
+<details>
+<summary><b>自主因子</b>｜autonomous element</summary>
+
+> 自主因子（autonomous element）是一类自身能编码有功能转座酶的转座因子，能够独立催化转座过程。与之相对的非自主因子由于缺失或突变而无法产生活性转座酶，必须依赖自主因子提供的转座酶才能转座。自主因子的转座酶可识别其末端反向重复序列，切开DNA链并介导转座体形成，通过非复制或复制转座实现位置移动。
+
+</details>
+
+<details>
+<summary><b>转运子</b>｜transporter</summary>
+
+> 转运子是一类参与物质跨膜运输的蛋白质，通常特异性结合并转运离子、小分子等底物。其功能涉及构象变化，介导被动或主动运输，对维持细胞内外环境稳态至关重要。
+
+</details>
+
+<details>
+<summary><b>组合因子</b>｜combination factor</summary>
+
+> 组合因子是一类由模块组合而成的转座子，通常由两个插入序列（IS）作为两臂，中间携带标记基因（如抗性基因）构成。两臂的插入序列可以正向或反向排列，其末端具有转座酶识别的反向重复序列，使得整个单位能够被转座酶识别并发生转座。这类转座子可能通过一个插入序列拷贝插入到附近区域而形成，并赋予宿主选择优势。
+
+</details>
+
+<details>
+<summary><b>转座重组</b>｜transpositional recombination</summary>
+
+> 转座重组是由转座酶介导的一种特殊遗传重组，转座酶识别转座子两端的反向重复序列并在其3'端切开，同时在靶DNA上交错切开两条单链，转座子末端通过联会复合物（转座体）与靶位点连接形成Shapiro中间体，后续过程可分为非复制转座（转座子被完整切除并插入新位点）和复制转座（转座子经复制形成共整合体，使供体位点与靶位点各含一个拷贝）。
+
+</details>
+
+<details>
+<summary><b>转座体</b>｜transpososome</summary>
+
+> 转座体是转座过程中由转座酶将转座子两末端联在一起形成的联会复合物。转座酶先识别转座子末端反向重复序列并在其3'端切开，同时在靶部位交错切开两条单链，随后将转座子两端联结形成该复合体。
+
+</details>
+
+<!-- BIO-GLOSSARY:END -->

@@ -1124,3 +1124,184 @@ $$
   * 鉴定蛋白质复合物的组成。
   * 确定蛋白质翻译后修饰的类型和位点。
   * 研究磷酸化、硫酸化、糖苷化及其他修饰。
+
+<!-- BIO-GLOSSARY:START 自动生成,勿手改此区块 -->
+
+## 本章名词
+
+<details>
+<summary><b>聚合酶链式反应</b>｜polymerase chain reaction, PCR　⭐真题</summary>
+
+> 是指通过模拟体内 DNA 复制方式在体外选择性地将 DNA 某个特定区域扩增出来的技术。
+
+</details>
+
+<details>
+<summary><b>PCR</b>｜PCR　⭐真题</summary>
+
+> 聚合酶链式反应(PCR)是一种体外快速扩增特定基因片段的技术。其原理是将模板DNA加热变性为单链，然后由耐高温DNA聚合酶在一对引物引导下，以单链为模板，利用四种脱氧核苷三磷酸合成新的互补链。通过重复高温变性、低温退火和中温延伸的循环，DNA片段实现指数级扩增。该技术是分子生物学中最常用的基因扩增方法。
+
+</details>
+
+<details>
+<summary><b>DNA 重组技术</b>｜recombinant DNA technology　⭐真题</summary>
+
+> 又称基因工程 (genetic engineering), 指不同的 DNA 片段 (如某个基因或基因的一部分) 按照预先的设计定向连接起来, 在特定的受体细胞中与载体同时复制并得到表达, 产生影响受体细胞的新的遗传性状的技术。
+
+</details>
+
+<details>
+<summary><b>双向电泳技术</b>｜Two-Dimensional Electrophoresis,2-DE　⭐真题</summary>
+
+> 是一种依赖蛋白质的等电点和分子大小的性质,通过组合等电聚焦电泳和聚丙烯酰胺凝胶电泳,分离大量混合蛋白质组分的技术。
+
+</details>
+
+<details>
+<summary><b>cDNA</b>｜complementary DNA</summary>
+
+> 在体外以 mRNA 为模板, 利用反转录酶和 DNA 聚合酶合成的一段双链 DNA。
+
+</details>
+
+<details>
+<summary><b>RACE</b>｜rapid amplification of cDNA ends, cDNA 末端的快速扩增</summary>
+
+> 利用 PCR 技术在已知部分 cDNA 序列的基础上特异性克隆其 5' 端或 3' 端缺失的序列。
+
+</details>
+
+<details>
+<summary><b>共线</b>｜Synteny</summary>
+
+> 即相关物种的基因组在染色体水平上出现的同源现象。
+
+</details>
+
+<details>
+<summary><b>引物</b>｜primer</summary>
+
+> 是指一段较短的单链 RNA 或 DNA, 它能与 DNA 的一条链配对提供游离的 3'-OH 末端以作为 DNA 聚合酶合成脱氧核苷酸链的起始点。
+
+</details>
+
+<details>
+<summary><b>Mullis</b>｜Mullis</summary>
+
+> Kary Mullis是一位美国生物化学家，于20世纪80年代在美国Cetus公司发明了聚合酶链式反应（PCR）技术，该技术实现了体外快速扩增特定基因片段，对分子生物学研究产生了重大影响。
+
+</details>
+
+<details>
+<summary><b>Yanofsky</b>｜Yanofsky</summary>
+
+> Yanofsky是与Brener于1961年共同提出遗传密码三联子设想的科学家，该设想对遗传密码的破译及分子生物学的发展产生了重要贡献。
+
+</details>
+
+<details>
+<summary><b>核小RNA</b>｜small nuclear RNA</summary>
+
+> 核小RNA（small nuclear RNA, snRNA）是一类存在于真核细胞核内的小分子非编码RNA，主要包括U1、U2、U4、U5和U6等，长度为100~300核苷酸。它们与特定蛋白质结合形成核小核糖核蛋白（snRNP），作为剪接体的核心组分参与前体mRNA的剪接过程，负责识别剪接位点、协助催化剪接反应。
+
+</details>
+
+<details>
+<summary><b>基因扩增</b>｜gene amplification</summary>
+
+> 基因扩增是指特定基因的拷贝数在细胞内专一性大量增加的现象，是一种DNA水平上的基因表达调控方式。通过增加基因拷贝数直接增多转录模板，细胞在短期内大量合成相关蛋白质，以满足正常生长发育的需要或抵抗环境胁迫。在肿瘤细胞中，基因扩增事件发生频率极高，癌基因常作为扩增靶点，赋予肿瘤细胞选择性生长优势。
+
+</details>
+
+<details>
+<summary><b>基因组DNA文库</b>｜genomic DNA library</summary>
+
+> 基因组DNA文库是将某种生物的基因组DNA切割成适当大小的片段，分别与载体连接后导入受体细胞，所形成的包含该生物基因组全部DNA序列（理论上每个序列至少有一份代表）的重组克隆总汇。它常用于分离特定基因片段、分析基因结构、研究基因表达调控，以及全基因组物理图谱构建和序列测定。构建时需保证文库的代表性和随机性，通常通过随机断裂DNA和增加克隆数目来实现。
+
+</details>
+
+<details>
+<summary><b>菌落PCR</b>｜colony PCR</summary>
+
+> 菌落PCR是一种以菌落（或少量菌体）直接作为模板进行PCR扩增来快速筛选阳性克隆的方法。它无需提取质粒DNA，仅需用引物对菌落进行扩增，通过检测目标条带的有无来鉴定含目的基因的重组子，常用于基因文库筛选或重组载体构建后的阳性克隆鉴定。
+
+</details>
+
+<details>
+<summary><b>克隆</b>｜cloning</summary>
+
+> 在分子生物学中，克隆是指将外源DNA片段插入具有复制能力的载体DNA中，使其能够永久保存和复制的过程。该技术是重组DNA技术的核心，常用于分离扩增特定基因、构建基因组文库等。
+
+</details>
+
+<details>
+<summary><b>实时定量PCR</b>｜real-time quantitative PCR</summary>
+
+> 实时定量PCR（real-time quantitative PCR，qPCR）是一种在PCR反应过程中利用荧光信号实时监测DNA扩增累积速率并对初始模板进行定量的技术。该技术在带透明盖的塑料小管中进行，荧光探针预先混合于反应液中，仅在与DNA结合后才被激发产生荧光。随着目的DNA片段的合成增加，结合荧光探针增多，荧光信号相应增强，通过带荧光检测的PCR仪绘制动态变化图。该技术克服了传统PCR终点产物定量变异系数大的问题，实现了更精准的核酸定量。常用的非序列特异性荧光染料如SYBR Green I只能与双链DNA结合。
+
+</details>
+
+<details>
+<summary><b>图位克隆法</b>｜map-based cloning</summary>
+
+> 图位克隆法是一种分离未知性状目的基因的方法，通过构建遗传连锁图将目的基因定位到染色体特定位点，并利用紧密连锁的分子标记（如RFLP或RAPD）确定其两侧边界；随后通过染色体步移技术克隆两个标记之间的基因片段，最后借助基因功能互补原理鉴定目的基因。
+
+</details>
+
+<details>
+<summary><b>总RNA</b>｜total RNA</summary>
+
+> 总RNA（total RNA）是指细胞中所有RNA分子的集合，包括编码蛋白质的mRNA以及不编码蛋白质的非编码RNA（ncRNA），如rRNA、tRNA和其他调控RNA。其中rRNA含量最高，约占80%～85%，其电泳后呈现的28S和18S特征条带是评估总RNA纯度和完整性的关键指标。提取总RNA常用异硫氰酸胍-苯酚法（如Trizol试剂），操作中需严格避免RNA酶污染。
+
+</details>
+
+<details>
+<summary><b>RAMPAGE 技术</b>｜RNA Annotation and Mapping of Promoters for the Analysis of Gene Expression</summary>
+
+> 是一种在全基因组范围内鉴定所有蛋白质编码基因和部分非编码 RNA 基因的转录起始位点, 确定启动子的具体位置, 并且能够高通量检测基因表达水平的方法。
+
+</details>
+
+<details>
+<summary><b>RAPD</b>｜Random Amplified Polymorphism, DNA 随机扩增多态性</summary>
+
+> DNA 序列上的微小变化, 甚至 1 个核苷酸的变化, 也能改变引物结合效率, 影响 PCR 扩增。
+
+</details>
+
+<details>
+<summary><b>RFLP</b>｜Restriction Fragment Length Polymorphism, 限制性片段长度多态性</summary>
+
+> DNA 序列上的微小变化, 甚至 1 个核苷酸的变化, 也能引起限制性内切酶切点的丢失或产生, 导致酶切片段长度的变化。
+
+</details>
+
+<details>
+<summary><b>实时定量 PCR</b>｜real time quantitative PCR</summary>
+
+> 是在 PCR 扩增过程中, 通过荧光信号对 PCR 进程进行实时检测, 监测整个 PCR 过程中扩增 DNA 的累积速率。依据指数时期模板的扩增循环数和该模板的起始拷贝数的线性关系, 可对特定 DNA 序列进行定量分析。
+
+</details>
+
+<details>
+<summary><b>非编码 RNA</b>｜non-coding RNA</summary>
+
+> 是指从基因组上转录出来但不翻译成蛋白质的一类 RNA 的总称。依据功能不同, 主要分为两大类。一类是组成型的非编码 RNA, 包括 rRNA 和 tRNA; 另一类是调控型的非编码 RNA, 如 miRNA, siRNA, lncRNA 等。
+
+</details>
+
+<details>
+<summary><b>基因克隆</b>｜gene cloning</summary>
+
+> 在分子生物学上,人们把将外源 DNA 插入具有复制能力的载体 DNA 中,转入宿主细胞使之得以永久保存和复制这种过程称为基因克隆。基因工程或重组 DNA 技术则侧重于验证上述过程所获得遗传物质新组合在宿主细胞内的表达与功能鉴定。
+
+</details>
+
+<details>
+<summary><b>热不对称交错多聚酶链式反应</b>｜Thermal Asymmetric Inter-Laced PCR</summary>
+
+> 是一种用于扩增 T-DNA 插入位点侧翼序列, 从而获得转基因植物插入位点特异性分子证据的技术。
+
+</details>
+
+<!-- BIO-GLOSSARY:END -->
